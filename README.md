@@ -80,7 +80,7 @@ The library roots are in Flash game development. It was common to design a game 
 
 The spriting format exported and used is, again, optimized for Flash games ecosystem, which favoured small sizes. HTML5 and OpenFL have issues with storing and rendering many separate BitmapData like the SentryModuleTemplate currently holds. They work, but not efficiently. To be efficient for HTML5 would mean to pack everything in a large BitmapData and use offset rendering from it. This would require adding support to library Sentry sprite system as well as creating an export script for Sentry sprite editor.
 
-Leaderboard system should be refactored to accept any provider, convert provider data to internal data. Its [UI part](gamelib2/microvcl/leaderboard) should also be refactored.
+Leaderboard system should be refactored to accept any provider, convert provider data to internal data. Its [UI part](src/gamelib2/microvcl/leaderboard) should also be refactored.
 
 Improved test case coverage.
 
