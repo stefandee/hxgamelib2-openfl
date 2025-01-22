@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<package name="AllStrings" lang="ro-RO">
+	<string id="StrLdrId_NewScore" 				value="Scor nou!" />	
+	<string id="StrLdrId_Submit"					value="Trimite" />	
+	<string id="StrLdrId_Close"					value="Închide" />	
+	<string id="StrLdrId_Retry"					value="Reîncearcă" />	
+	<string id="StrLdrId_PleaseWait"				value="Asteptati vă rog" />	
+	<string id="StrLdrId_SubmitError"				value="Eroare de trimitere." />	
+	<string id="StrLdrId_Loading"					value="Se încarcă" />	
+	<string id="StrLdrId_Score"					value="Scor" />	
+	<string id="StrLdrId_Name"						value="Nume" />	
+	<string id="StrLdrId_Day"						value="Zi" />	
+	<string id="StrLdrId_Week"						value="Săptămână" />	
+	<string id="StrLdrId_Month"					value="Luna" />	
+	<string id="StrLdrId_AllTime"					value="Toate" />	
+	<string id="StrLdrId_Refresh"					value="Reîncarcă" />	
+	<string id="StrLdrId_Stat"						value="Statistică" />	
+	<string id="StrLdrId_HallOfFame"				value="Hall of Fame" />	
+	<string id="StrLdrId_Leaderboard"				value="Leaderboard" />	
+	<string id="StrLdrId_DefaultSubmitName"		value="Introdu numele" />	
+	<string id="StrLdrId_NoScore"					value="Nu exista scor." />	
+	<string id="StrLdrId_NoStats"					value="Nici un mod" />	
+	<string id="StrLdrId_ErrorEmptyLeaderboard"	value="Nu exista scoruri." />		
+	<string id="StrLdrId_ErrorLoadingLeaderboard"	value="Eroare de incarcare." />		
+	<string id="StrLdrId_CurrentScoreEmpty"		value="Nu aţi realizat nici un scor." />		
+</package>

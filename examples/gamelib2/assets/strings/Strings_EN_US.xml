@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<package name="AllStrings" lang="en-US">
+	<string id="kStringID_LangCode"		value="EN_US" />
+	<string id="kStringID_Skip"		value="Skip" />
+	<string id="kStringID_Play"		value="Play" />
+	<string id="kStringID_GameGuide"		value="Game Guide" />
+	<string id="kStringID_Guide"		value="Guide" />
+	<string id="kStringID_Continue"		value="Continue" />
+	<string id="kStringID_Options"		value="Options" />
+	<string id="kStringID_About"		value="About" />
+	<string id="kStringID_Help"		value="Help" />
+	<string id="kStringID_Menu"		value="Menu" />
+	<string id="kStringID_MoreGames"		value="More Games!" />
+	<string id="kStringID_Version"		value="Version" />
+	<string id="kStringID_AnyKey"		value="Click to Continue" />
+	<string id="kStringID_Pause"		value="Pause" />
+	<string id="kStringID_Resume"		value="Resume" />
+	<string id="kStringID_Restart"		value="Restart" />
+	<string id="kStringID_Quit"		value="Quit" />
+	<string id="kStringID_Back"		value="Back" />
+	<string id="kStringID_Prev"		value="Prev" />
+	<string id="kStringID_Next"		value="Next" />
+	<string id="kStringID_Close"		value="Close" />
+	<string id="kStringID_On"		value="On" />
+	<string id="kStringID_Off"		value="Off" />
+	<string id="kStringID_Sound"		value="Sound" />
+	<string id="kStringID_Music"		value="Music" />
+	<string id="kStringID_Splash"		value="Intro" />
+	<string id="kStringID_Quality"		value="Res." />
+	<string id="kStringID_ResetData"		value="Reset Data" />
+	<string id="kStringID_Apply"		value="Apply" />
+	<string id="kStringID_Place"		value="Place" />
+	<string id="kStringID_Clear"		value="Clear" />
+	<string id="kStringID_SaveMap"		value="Save Map" />
+	<string id="kStringID_Add"		value="Add" />
+	<string id="kStringID_Delete"		value="Delete" />
+	<string id="kStringID_TabPlay"		value="Play" />
+	<string id="kStringID_TabStory"		value="Story" />
+	<string id="kStringID_BestScore"		value="Best Score" />
+	<string id="kStringID_Mission"		value="Mission" />
+	<string id="kStringID_Character"		value="Character" />
+	<string id="kStringID_Ok"		value="Okay" />
+	<string id="kStringID_Cancel"		value="Cancel" />
+	<string id="kStringID_Yes"		value="Yes" />
+	<string id="kStringID_No"		value="No" />
+	<string id="kStringID_Abort"		value="Abort" />
+	<string id="kStringID_Retry"		value="Retry" />
+	<string id="kStringID_Ignore"		value="Ignore" />
+	<string id="kStringID_Low"		value="Low" />
+	<string id="kStringID_Medium"		value="Medium" />
+	<string id="kStringID_High"		value="High" />
+	<string id="kStringID_Best"		value="Best" />
+	<string id="kStringID_GamePaused"		value="Paused" />
+	<string id="kStringID_Error"		value="Error" />
+	<string id="kStringID_NoInfo"		value="No Info" />
+	<string id="kStringID_PointsAvailable"		value="Points Available" />
+	<string id="kStringID_ConfirmResetData"		value="<span class='title'>Confirm</span><br/>This will erase ALL game progress data. Do you still wish to continue?" />
+	<string id="kStringID_SiteLock"		value="THANKS FOR YOUR INTEREST<br>IN BORN OF FIRE TD! THIS GAME CAN ONLY BE PLAYED ON %s." />
+	<string id="kStringID_ModeNormal_Display"		value="Campaign (Normal)" />
+	<string id="kStringID_ModeHell_Display"		value="Campaign (Hell)" />
+	<string id="kStringID_ModeArmy_Display"		value="Army of Darkness" />
+	<string id="kStringID_ModeEternal_Display"		value="Eternal Damnation" />
+	<string id="kStringID_ModeUnknown_Display"		value="Unknown Mode" />
+	<string id="kStringID_ModeNormal_Info"		value="Hail and kill!" />
+	<string id="kStringID_ModeHell_Info"		value="Retreat? Hell, we just got here!" />
+	<string id="kStringID_ModeArmy_Info"		value="Might as well try to<br>charge through a wall…" />
+	<string id="kStringID_ModeEternal_Info"		value="Ability counts for more<br>than numbers." />
+	<string id="kStringID_ModeUnknown_Info"		value="Unknown Mode Info" />
+	<string id="kStringID_Skills"		value="Skills" />
+	<string id="kStringID_Epilogue"		value="Epilogue" />
+	<string id="kStringID_IngameHelpTitle1"		value="Map" />
+	<string id="kStringID_IngameHelpTitle2"		value="Basic Rules" />
+	<string id="kStringID_IngameHelpTitle3"		value="Heroes" />
+	<string id="kStringID_IngameHelpTitle4"		value="Skills" />
+	<string id="kStringID_IngameHelpTitle5"		value="Level Up" />
+	<string id="kStringID_IngameHelpTitle6"		value="The Skill Tree" />
+	<string id="kStringID_IngameHelpTitle7"		value="Health and Mana" />
+	<string id="kStringID_IngameHelpTitle8"		value="Monster Waves" />
+	<string id="kStringID_IngameHelpTitle9"		value="Other Features" />
+	<string id="kStringID_IngameHelpTitle10"		value="Interactive Skills" />
+	<string id="kStringID_IngameHelp1"		value="This is the mini-map. Click it for quick navigation around the map. You may also use the arrow keys to scroll the map." />
+	<string id="kStringID_IngameHelp2"		value="Monsters warp in, then follow the path to the exit." />
+	<string id="kStringID_IngameHelp3"		value="When a monster reaches the exit portal, it will damage both your heroes and your overall health." />
+	<string id="kStringID_IngameHelp4"		value="This is the hero roster. As you progress in the campaign, more heroes will join in. To pick heroes up, click their icons." />
+	<string id="kStringID_IngameHelp5"		value="Drag your heroes to a suitable location and click again to place them. Tip: try to place them as close to the monster paths as possible." />
+	<string id="kStringID_IngameHelp6"		value="Heroes may have 2 skills active at any time. Most of them auto-cast." />
+	<string id="kStringID_IngameHelp7"		value="To use a skill, click the skill icon and select a skill from the list." />
+	<string id="kStringID_IngameHelp8"		value="To cancel the use of a skill, click the skill icon and select the stop icon from the list." />
+	<string id="kStringID_IngameHelp9"		value="Heroes gains experience points (XP) and levels by killing monsters." />
+	<string id="kStringID_IngameHelp10"		value="When heroes level up, they gain skill points. To open up the skill tree, press the highlighted button or press T." />
+	<string id="kStringID_IngameHelp11"		value="To spend skill points, click a skill icon. To remove skill points, hold ALT and click a skill icon." />
+	<string id="kStringID_IngameHelp12"		value="If you are unhappy with the current talent build, you can reset the allocation at any time." />
+	<string id="kStringID_IngameHelp13"		value="The green bar is the health bar. The blue bar is the mana bar." />
+	<string id="kStringID_IngameHelp14"		value="This button sends a monster wave immediately." />
+	<string id="kStringID_IngameHelp15"		value="This button adjusts the game speed (1x, 2x, 4x)." />
+	<string id="kStringID_IngameHelp16"		value="Press J to toggle the health bars of both monsters and heroes." />
+	<string id="kStringID_IngameHelp17"		value="Select a hero then press R to view the attack range of various skills." />
+	<string id="kStringID_IngameHelp18"		value="Some skills like &amp;quot;Nightwings&amp;quot; or &amp;quot;Gate&amp;quot; require additional involvement from you. Select the interactive skill from the list." />
+	<string id="kStringID_IngameHelp19"		value="A cursor will appear. You must find a location where the cursor turns blue in order to perform the skill." />
+	<string id="kStringID_HeroDemon"		value="Demon Incarnate" />
+	<string id="kStringID_HeroKitsune"		value="Kitsune" />
+	<string id="kStringID_HeroKing"		value="King" />
+	<string id="kStringID_HeroAmazon"		value="Shield Maiden" />
+	<string id="kStringID_MonsterRankSoldier"		value="Soldier" />
+	<string id="kStringID_MonsterRankLeader"		value="Leader" />
+	<string id="kStringID_MonsterRankHero"		value="Hero" />
+	<string id="kStringID_MonsterTypeSkeleton"		value="Skeleton" />
+	<string id="kStringID_MonsterTypeWraith"		value="Wraith" />
+	<string id="kStringID_MonsterTypeCerberus"		value="Cerberus" />
+	<string id="kStringID_MonsterTypeSkull"		value="Flaming Skull" />
+	<string id="kStringID_MonsterTypeNaga"		value="Naga" />
+	<string id="kStringID_MonsterTypeDevil"		value="Devil" />
+	<string id="kStringID_MonsterTypeAngel"		value="Angel" />
+	<string id="kStringID_MonsterTypeDragon"		value="Dragon" />
+	<string id="kStringID_HP"		value="HP" />
+	<string id="kStringID_XP"		value="XP" />
+	<string id="kStringID_Damage"		value="Damage" />
+	<string id="kStringID_NoInfoDisplay"		value="No information to display." />
+	<string id="kStringID_Dead"		value="Dead" />
+	<string id="kStringID_Level"		value="Level" />
+	<string id="kStringID_ManaBurn"		value="Mana Burn" />
+	<string id="kStringID_Priest"		value="Priest" />
+	<string id="kStringID_Regeneration"		value="Regeneration" />
+	<string id="kStringID_Ressurect"		value="Ressurectable" />
+	<string id="kStringID_Immune"		value="Immune to " />
+	<string id="kStringID_ResistLow"		value="Weak resistance to " />
+	<string id="kStringID_ResistMed"		value="Mild resistance to " />
+	<string id="kStringID_ResistHeavy"		value="Strong resistance to " />
+	<string id="kStringID_Fire"		value="Fire" />
+	<string id="kStringID_Cold"		value="Ice" />
+	<string id="kStringID_Lightning"		value="Lightning" />
+	<string id="kStringID_Magic"		value="Magic" />
+	<string id="kStringID_Physical"		value="Physical" />
+	<string id="kStringID_Poison"		value="Poison" />
+	<string id="kStringID_Elements"		value="Elemental" />
+	<string id="kStringID_Slow"		value="Slow" />
+	<string id="kStringID_ColdSlow"		value="Freeze" />
+	<string id="kStringID_Burn"		value="Burn" />
+	<string id="kStringID_Stun"		value="Stun" />
+	<string id="kStringID_CriticalHits"		value="Critical Hits" />
+	<string id="kStringID_Teleport"		value="Teleport" />
+	<string id="kStringID_LowerResistances"		value="Lower Resistances" />
+	<string id="kStringID_InstantKill"		value="Instant Kill" />
+	<string id="kStringID_ManaLeech"		value="Mana Leech" />
+	<string id="kStringID_Wounds"		value="Wounds" />
+	<string id="kStringID_RandomMonster"		value="Random Monster" />
+	<string id="kStringID_Count"		value="Count" />
+	<string id="kStringID_Maxed"		value="Max Level" />
+	<string id="kStringID_Needs"		value="Needs %s" />
+	<string id="kStringID_NeedsLevel"		value="Requires hero level %d." />
+	<string id="kStringID_Interactive"		value="Interactive" />
+	<string id="kStringID_NextLevel"		value="Next Level" />
+	<string id="kStringID_CurrentLevel"		value="Current Level" />
+	<string id="kStringID_Mana"		value="Mana" />
+	<string id="kStringID_Recharge"		value="Recharge" />
+	<string id="kStringID_Second"		value="sec" />
+	<string id="kStringID_SplashDamage"		value="Splash Damage" />
+	<string id="kStringID_CriticalChance"		value="Critical Strike Chance" />
+	<string id="kStringID_MagicDamage"		value="Magic Damage" />
+	<string id="kStringID_SpectralDamage"		value="Spectral Damage" />
+	<string id="kStringID_FireDamage"		value="Fire Damage" />
+	<string id="kStringID_ColdDamage"		value="Ice Damage" />
+	<string id="kStringID_LightningDamage"		value="Lightning Damage" />
+	<string id="kStringID_ManaPerHit"		value="Mana/Hit" />
+	<string id="kStringID_ChanceInstantKill"		value="Chance of Instant Kill" />
+	<string id="kStringID_ChanceTeleport"		value="Chance of Teleporting" />
+	<string id="kStringID_ChainHit"		value="Chain Hit" />
+	<string id="kStringID_ChancePierce"		value="Chance of Piercing Armor" />
+	<string id="kStringID_Pierce"		value="Pierce" />
+	<string id="kStringID_TotalDeath"		value="Total Deaths" />
+	<string id="kStringID_Criticals"		value="Critical Strikes" />
+	<string id="kStringID_HPRec"		value="Health Recovery" />
+	<string id="kStringID_ManaRec"		value="Mana Recovery" />
+	<string id="kStringID_AttackRange"		value="Attack Range" />
+	<string id="kStringID_AttackRecharge"		value="Attack Recharge" />
+	<string id="kStringID_MissionStats"		value="Mission Stats" />
+	<string id="kStringID_MissionOutcome"		value="Mission Outcome" />
+	<string id="kStringID_MissionUnlocked"		value="Mission Unlocked!" />
+	<string id="kStringID_HeroUnlocked"		value="Hero Unlocked!" />
+	<string id="kStringID_Victory"		value="Victory!" />
+	<string id="kStringID_Defeat"		value="Defeat!" />
+	<string id="kStringID_Score"		value="Score" />
+	<string id="kStringID_FinalScore"		value="Final Score" />
+	<string id="kStringID_XPGain"		value="XP Gained" />
+	<string id="kStringID_DamageReceived"		value="Damage Received" />
+	<string id="kStringID_MonstersSlipped"		value="Monsters Not Stopped" />
+	<string id="kStringID_StoryEpilogue"		value="You have valliantly charged your enemies and given them a taste of your steel and magic. Congratulations! You have earned your place in the Army of Immortals!" />
+	<string id="kStringID_Mission1_Short"		value="Pillars of Niphret" />
+	<string id="kStringID_Mission2_Short"		value="Fields of Nameless Graves" />
+	<string id="kStringID_Mission3_Short"		value="Blood Falls" />
+	<string id="kStringID_Mission4_Short"		value="Tomb of the Fallen King" />
+	<string id="kStringID_Mission5_Short"		value="The Slayer's Tower" />
+	<string id="kStringID_Mission6_Short"		value="Crypts of Sorcery" />
+	<string id="kStringID_Mission7_Short"		value="Tyrant Halls" />
+	<string id="kStringID_Mission8_Short"		value="The Crystal Bridge" />
+	<string id="kStringID_Mission9_Short"		value="Valley of Dawn" />
+	<string id="kStringID_Mission10_Short"		value="The Cloud Citadel" />
+	<string id="kStringID_Mission1_Screen"		value="I. Pillars<br>of<br>Niphret" />
+	<string id="kStringID_Mission2_Screen"		value="II. Fields<br>of<br>Nameless Graves" />
+	<string id="kStringID_Mission3_Screen"		value="III. Blood Falls" />
+	<string id="kStringID_Mission4_Screen"		value="IV. Tomb<br>of the<br>Fallen King" />
+	<string id="kStringID_Mission5_Screen"		value="V. The Slayer's<br>Tower" />
+	<string id="kStringID_Mission6_Screen"		value="VI. Crypts<br>of<br>Sorcery" />
+	<string id="kStringID_Mission7_Screen"		value="VII. Tyrant Halls" />
+	<string id="kStringID_Mission8_Screen"		value="VIII. The<br>Crystal<br>Bridge" />
+	<string id="kStringID_Mission9_Screen"		value="IX. Valley<br>of<br>Dawn" />
+	<string id="kStringID_Mission10_Screen"		value="X. The<br>Cloud<br>Citadel" />
+	<string id="kStringID_Credits_1"		value="Programming &amp; Design" />
+	<string id="kStringID_Credits_2"		value="In-game Art" />
+	<string id="kStringID_Credits_3"		value="Background Art" />
+	<string id="kStringID_Credits_4"		value="Music" />
+	<string id="kStringID_Credits_5"		value="Testing" />
+	<string id="kStringID_Credits_6"		value="Sound from" />
+	<string id="kStringID_Credits_7"		value="Thanks to" />
+	<string id="kStringID_Credits_8"		value="This game is a tribute to the Diablo series, to the novels of Robert E. Howard, and to the music of Manowar." />
+	<string id="kStringID_Credits_9"		value="The Tools" />
+	<string id="kStringID_Credits_10"		value="Please visit Piron Games for more original games!" />
+	<string id="kStringID_Credits_Version"		value="for SPIL GAMES" />
+	<string id="kStringID_HelpSection1_Title"		value="Game Modes" />
+	<string id="kStringID_HelpSection1_1"		value="Campaign (Normal/Hell)" />
+	<string id="kStringID_HelpSection1_2"		value="Monsters warp in in a predefined order. Kill all the monsters to win." />
+	<string id="kStringID_HelpSection1_3"		value="Eternal Damnation" />
+	<string id="kStringID_HelpSection1_4"		value="The monsters warping in increase in level, from 1 to 50. Kill all the monsters to win." />
+	<string id="kStringID_HelpSection1_5"		value="Army of Darkness" />
+	<string id="kStringID_HelpSection1_6"		value="The skeleton army is heading your way, and it's up to you to save the day! Kill them all to win, but make sure not to let any reach the exit, or it'll be an instant game over!" />
+	<string id="kStringID_HelpSection2_Title"		value="Controls" />
+	<string id="kStringID_HelpSection2_1"		value="Use arrow keys or <span class='helpBodyRed'>W</span>, <span class='helpBodyRed'>S</span>, <span class='helpBodyRed'>A</span>, <span class='helpBodyRed'>D</span> to navigate the mini-map." />
+	<string id="kStringID_HelpSection2_2"		value="Place heroes on the map by clicking their thumbnails in the bottom right corner and then selecting a tactical attack position." />
+	<string id="kStringID_HelpSection2_3"		value="Select a hero by clicking on the character in the battlefield or the thumbnail in the hero roster. You may only have one selected at a time." />
+	<string id="kStringID_HelpSection2_4"		value="Use <span class='helpBodyRed'>Esc</span> to cancel a placement, selection or interactive spell." />
+	<string id="kStringID_HelpSection2_5"		value="Press <span class='helpBodyRed'>T</span> to display the hero skill tree." />
+	<string id="kStringID_HelpSection2_6"		value="To remove a skill point hold <span class='helpBodyRed'>ALT</span> and <span class='helpBodyRed'>click</span> a skill icon." />
+	<string id="kStringID_HelpSection2_7"		value="<span class='helpBodyRed'>R</span> toggles the hero skill ranges; <span class='helpBodyRed'>J</span> toggles the monster health bar." />
+	<string id="kStringID_HelpSection2_8"		value="<span class='helpBodyRed'>P</span> pauses, <span class='helpBodyRed'>M</span> adjusts sound settings, and <span class='helpBodyRed'>N</span> adjusts music settings." />
+	<string id="kStringID_HelpSection2_9"		value="Press <span class='helpBodyRed'>Q</span> to change the resolution settings." />
+	<string id="kStringID_HelpSection3_Tips"		value="Tips" />
+	<string id="kStringID_HelpSection3_1"		value="A hero may only have 2 skills active at a time. And interactive skills like &amp;quot;Gate&amp;quot; and &amp;quot;Nightwings&amp;quot; may only be used as primary skills." />
+	<string id="kStringID_HelpSection3_2"		value="Killing monsters that have a difference of +/-3 levels will not yield full XP." />
+	<string id="kStringID_HelpSection3_3"		value="The max hero level is 50. The max skill level is 10." />
+	<string id="kStringID_HelpSection3_4"		value="You can reset all the skill points at any time from within the &amp;quot;Skill Tree&amp;quot; tab." />
+	<string id="kStringID_HelpSection3_5"		value="Monsters that make it to the exit will damage and eventually kill your heroes. If you lose all your heroes, it's game over!" />
+	<string id="kStringID_HelpSection3_6"		value="&amp;quot;Heart of Steel&amp;quot; protects your allies from damage while &amp;quot;Warrior's Prayer&amp;quot; can regenerate their health." />
+	<string id="kStringID_HelpSection3_7"		value="&amp;quot;Gate&amp;quot; and &amp;quot;Nightwings&amp;quot; are skills that will teleport heroes on the battlefield." />
+	<string id="kStringID_HelpSection3_8"		value="If you have problems clearing a level, consider replaying previous battles to gain more XP." />
+	<string id="kStringID_HelpSection3_9"		value="If you get stuck or have questions, check out the game guide for more tips and strategies." />
+	<string id="kStringID_SkillSlash"		value="Slash" />
+	<string id="kStringID_SkillSlashInfo"		value="Send a basic attacking blow." />
+	<string id="kStringID_SkillHailFire"		value="Hail to Fire" />
+	<string id="kStringID_SkillHailFireInfo"		value="Attack with fire damage." />
+	<string id="kStringID_SkillBarrage"		value="Barrage of Blades" />
+	<string id="kStringID_SkillBarrageInfo"		value="Attack all enemies in range." />
+	<string id="kStringID_SkillNight"		value="Nightwings" />
+	<string id="kStringID_SkillNightInfo"		value="Teleport to a new location on the battlefield." />
+	<string id="kStringID_SkillStrikeHate"		value="Strike with Hate" />
+	<string id="kStringID_SkillStrikeHateInfo"		value="Make enemy wounds bleed uncontrollably." />
+	<string id="kStringID_SkillRage"		value="Rage of the Banished" />
+	<string id="kStringID_SkillRageInfo"		value="Increase your chance to deal an instant kill." />
+	<string id="kStringID_SkillFaces"		value="Faces of Fear" />
+	<string id="kStringID_SkillFacesInfo"		value="Slow enemies down while damaging them." />
+	<string id="kStringID_SkillShriek"		value="Chilling Shriek" />
+	<string id="kStringID_SkillShriekInfo"		value="Shout at the enemy and have a chance at stunning them." />
+	<string id="kStringID_SkillScourge"		value="Scourge of Malice" />
+	<string id="kStringID_SkillScourgeInfo"		value="Deal damage to the enemy with a battle cry." />
+	<string id="kStringID_SkillLash"		value="Lash Out" />
+	<string id="kStringID_SkillLashInfo"		value="Increase the attack speed of your allies with a war cry." />
+	<string id="kStringID_SkillTremble"		value="Tremble" />
+	<string id="kStringID_SkillTrembleInfo"		value="Lower enemy resistance to magic." />
+	<string id="kStringID_SkillImmolation"		value="Immolate" />
+	<string id="kStringID_SkillImmolationInfo"		value="Burst enemies into flames." />
+	<string id="kStringID_SkillSiphon"		value="Siphon" />
+	<string id="kStringID_SkillSiphonInfo"		value="Steal mana from an enemy." />
+	<string id="kStringID_SkillGate"		value="Gate" />
+	<string id="kStringID_SkillGateInfo"		value="Teleport locations." />
+	<string id="kStringID_SkillFireStorm"		value="Fire Storm" />
+	<string id="kStringID_SkillFireStormInfo"		value="Shoot multiple guided fire missiles." />
+	<string id="kStringID_SkillDeathSky"		value="Death from the Sky" />
+	<string id="kStringID_SkillDeathSkyInfo"		value="Summon meteors to strike your enemies down." />
+	<string id="kStringID_SkillIceShard"		value="Ice Shard" />
+	<string id="kStringID_SkillIceShardInfo"		value="Cast an unguided ice shard." />
+	<string id="kStringID_SkillFrostBite"		value="Frost Bite" />
+	<string id="kStringID_SkillFrostBiteInfo"		value="Shoot an ice missile that will slow the enemy." />
+	<string id="kStringID_SkillFrozen"		value="Frozen Grounds" />
+	<string id="kStringID_SkillFrozenInfo"		value="Tear the ground apart to deal area damage with ice spikes." />
+	<string id="kStringID_SkillWinter"		value="Winter Wrath" />
+	<string id="kStringID_SkillWinterInfo"		value="Send ice shards bursting from the enemy's skin, damaging all in range." />
+	<string id="kStringID_SkillBlackHand"		value="Black Hand of Niphret" />
+	<string id="kStringID_SkillBlackHandInfo"		value="Summon the cold hand of Niphret to claim the souls of your enemies." />
+	<string id="kStringID_SkillSwift"		value="Swift Blow" />
+	<string id="kStringID_SkillSwiftInfo"		value="Send a basic attacking blow." />
+	<string id="kStringID_SkillKillPower"		value="Kill with Power" />
+	<string id="kStringID_SkillKillPowerInfo"		value="Stun the enemy with a powerful blow." />
+	<string id="kStringID_SkillHand"		value="Hand of Doom" />
+	<string id="kStringID_SkillHandInfo"		value="Attack with additional elemental damage." />
+	<string id="kStringID_SkillShatter"		value="Shatter Shield" />
+	<string id="kStringID_SkillShatterInfo"		value="Lower the physical defenses of the enemy." />
+	<string id="kStringID_SkillArchers"		value="Archers Ready!" />
+	<string id="kStringID_SkillArchersInfo"		value="Order a volley of arrows." />
+	<string id="kStringID_SkillHeart"		value="Heart of Steel" />
+	<string id="kStringID_SkillHeartInfo"		value="Protect yourself from monster damage." />
+	<string id="kStringID_SkillBattleHymn"		value="Battle Hymn" />
+	<string id="kStringID_SkillBattleHymnInfo"		value="Increase the damage done by your allies." />
+	<string id="kStringID_SkillPrayer"		value="Warrior's Prayer" />
+	<string id="kStringID_SkillPrayerInfo"		value="Slowly regenerate the health of your allies." />
+	<string id="kStringID_SkillSpHealing"		value="Spiritual Healing" />
+	<string id="kStringID_SkillSpHealingInfo"		value="Regenerate the mana of your allies." />
+	<string id="kStringID_SkillMetalA"		value="Metal Apocalypse" />
+	<string id="kStringID_SkillMetalAInfo"		value="Fell all enemies in range with the power of your sword!" />
+	<string id="kStringID_SkillKyudo"		value="Kyudo" />
+	<string id="kStringID_SkillKyudoInfo"		value="Deal damage with your bow." />
+	<string id="kStringID_SkillHawk"		value="Hawk Strike" />
+	<string id="kStringID_SkillHawkInfo"		value="Target an enemy based on its weaknesses." />
+	<string id="kStringID_SkillHailA"		value="Hail of Arrows" />
+	<string id="kStringID_SkillHailAInfo"		value="Shoot a volley of arrows." />
+	<string id="kStringID_SkillShockArrow"		value="Shock Arrow" />
+	<string id="kStringID_SkillShockArrowInfo"		value="Fire an electrically charged arrow." />
+	<string id="kStringID_SkillThunderArrow"		value="Thunder Arrow" />
+	<string id="kStringID_SkillThunderArrowInfo"		value="Shoot an electrically charged arrow that splits on impact." />
+	<string id="kStringID_SkillArrowTime"		value="Arrow of Time" />
+	<string id="kStringID_SkillArrowTimeInfo"		value="Shoot an arrow that has a chance to teleport the enemy." />
+	<string id="kStringID_SkillStarPath"		value="Star Path" />
+	<string id="kStringID_SkillStarPathInfo"		value="Permanently increase your physical attack damage." />
+	<string id="kStringID_SkillSunPath"		value="Sun Path" />
+	<string id="kStringID_SkillSunPathInfo"		value="Permanently increase your critical strike chance." />
+	<string id="kStringID_SkillMoonPath"		value="Moon Path" />
+	<string id="kStringID_SkillMoonPathInfo"		value="Permanently increase your chance to pierce." />
+	<string id="kStringID_SkillDSky"		value="Daughter of the Sky" />
+	<string id="kStringID_SkillDSkyInfo"		value="Permanently increase your lightning damage." />
+	<string id="kStringID_Submit"		value="Submit" />
+	<string id="kStringID_Paused"		value="Paused" />
+	<string id="kStringID_HeroInfoUnlock"		value="Play mission '%s' to unlock." />
+	<string id="kStringID_HeroInfoHint"		value="Select a hero or monster from the map. You can also quick-select heroes from the hero roster." />
+	<string id="kStringID_Heal1"		value="Heal %s HP for %s sec." />
+	<string id="kStringID_Heal2"		value="Heal %s HP permanently." />
+	<string id="kStringID_Locked"		value="Locked" />
+	<string id="kStringID_HitsEnemies"		value="Hit %d enemies." />
+	<string id="kStringID_Permanent"		value="Permanent" />
+	<string id="kStringID_ResistTo"		value="Resistance to" />
+	<string id="kStringID_BuffSlow1"		value="Inflict %s%% slow effect permanently." />
+	<string id="kStringID_BuffSlow2"		value="Inflict %s%% slow effect for %s seconds." />
+	<string id="kStringID_BuffSlow3"		value="%s%% chance to slow by %s%% permanently." />
+	<string id="kStringID_BuffSlow4"		value="%s%% chance to slow by %s%% for %s seconds." />
+	<string id="kStringID_BuffColdSlow1"		value="Inflict %s%% freeze effect permanently." />
+	<string id="kStringID_BuffColdSlow2"		value="%s%% freeze effect for %s seconds." />
+	<string id="kStringID_BuffColdSlow3"		value="%s%% chance to freeze by %s%% permanently." />
+	<string id="kStringID_BuffColdSlow4"		value="%s%% chance to freeze by %s%% for %s seconds." />
+	<string id="kStringID_BuffStun1"		value="Stun permanently." />
+	<string id="kStringID_BuffStun2"		value="Stun for %s seconds." />
+	<string id="kStringID_BuffStun3"		value="%s%% chance to stun permanently." />
+	<string id="kStringID_BuffStun4"		value="%s%% chance to stun for %s seconds." />
+	<string id="kStringID_BuffBurn1"		value="Inflict %s fire damage permanently." />
+	<string id="kStringID_BuffBurn2"		value="Inflict %s fire damage for %s seconds." />
+	<string id="kStringID_BuffBurn3"		value="%s%% chance to inflict %s fire damage permanently." />
+	<string id="kStringID_BuffBurn4"		value="%s%% chance to inflict %s fire damage for %s seconds." />
+	<string id="kStringID_BuffPoison1"		value="Inflict %s poison damage permanently." />
+	<string id="kStringID_BuffPoison2"		value="Inflict %s poison damage for %s seconds." />
+	<string id="kStringID_BuffWound1"		value="Inflict %s bleeding damage permanently." />
+	<string id="kStringID_BuffWound2"		value="Inflict %s bleeding damage for %s seconds." />
+	<string id="kStringID_BuffWound3"		value="%s%% chance to inflict %s bleeding damage permanently." />
+	<string id="kStringID_BuffWound4"		value="%s%% chance to inflict %s bleeding damage for %s seconds." />
+	<string id="kStringID_GameName"		value="Born of Fire" />
+	<string id="kStringID_Lang"		value="English (US)" />
+</package>

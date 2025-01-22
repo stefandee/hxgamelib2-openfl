@@ -6,12 +6,12 @@ This is a port of [hxgamelib2](https://github.com/stefandee/hxgamelib2), which w
 It's in a dormant state, as I have no plans to make new games in Haxe/OpenFL. I am, however, trying to keep it up-to-date with the latest versions of Haxe/OpenFL and occasionally fix bugs.
 
 The main features are:
-* scene graph (a "loose" port/adaptation of jMonkeyEngine for 2D games);
+* scene graph (a "loose" port to Haxe and adaptation of jMonkeyEngine for 2D games);
 * support for patterns (Entity-Component-System, pooling, observer);
 * UI support via microvcl, with additional visual components and behaviours ("tactics");
 * [Sentry](https://github.com/stefandee/gametoolkit) sprites loading and rendering;
 * localization (requires [StringTool](https://github.com/stefandee/gametoolkit) with [StringScript_HxGameLib2.csl](tools/StringTool/StringScript_HxGameLib2.csl) export script to convert data from a master sheet to a format usable by the library);
-* leaderboards support (flexible to match any external leaderboard storage);
+* leaderboards support (needs refactoring in the logic and UI to abstract it);
 * cryptography support (to protect in-game memory data from direct search and tampering via CheatEngine, e.g. scores, resources counts, etc).
 
 ## Requirements
@@ -21,7 +21,7 @@ While the library doesn't direcly requires them, the included samples and any pr
 * the built-in sprite system uses Sentry;
 * the built-in l10n system uses StringTool;
 
-Pre-built binaries of the Piron GameToolkit are available for [download here]((https://github.com/stefandee/gametoolkit/releases/tag/win-v100)).
+Pre-built binaries of the Piron GameToolkit are available for [download here](https://github.com/stefandee/gametoolkit/releases).
 
 ## Setup
 
@@ -59,20 +59,32 @@ Works best when using an obfuscation tool (e.g. Google Closure compiler).
 
 The leaderboard module and the sample was written for the [Piron Games Arcade v4](https://github.com/stefandee/pirongames-website-v4) and needs adjustments to work with a different leaderboard provider.
 
+To build&run the example, use either [build.bat](examples/leaderboard/build.bat) or simply run
+
+```console
+openfl test html5
+```
+
 ### Tooling
 
 A couple of Perl scripts to help build the data in library-friendly formats are provided.
 
-There are:
+These are:
 * makedatalib.pl merges together files in a folder and also outputs Haxe definitions to easily access them (useful for creating a sprite library)
 * makelanglib.pl converts all the xml files, merges them together and generates Haxe definitions
 * makepbl.pl creates a RC4 blacklist Haxe definitions based on a list of sites (this was used to prevent the game from running on sites that were known to block ads or outgoing links in the Flash era)
 
 ## Known Issues/Future work
 
-The library roots are in Flash game development. It was common to have work with fixed resolution (simplified developement, small assets to keep the game below 5Mb, etc). This is why the library lacks ways to resize. Some preliminary work has been done in Application.hx and Form.hx, but it's never been completed. This is one of the biggest point of improvement.
+The library roots are in Flash game development. It was common to design a game for a fixed resolution (simplified developement, small assets to keep the game below 3-5Mb for fast download, etc). This is why the library lacks ways to resize. Some preliminary work has been done in Application.hx and Form.hx, but it's never been completed. This is one of the biggest points of improvement.
 
 The spriting format exported and used is, again, optimized for Flash games ecosystem, which favoured small sizes. HTML5 and OpenFL have issues with storing and rendering many separate BitmapData like the SentryModuleTemplate currently holds. They work, but not efficiently. To be efficient for HTML5 would mean to pack everything in a large BitmapData and use offset rendering from it. This would require adding support to library Sentry sprite system as well as creating an export script for Sentry sprite editor.
+
+Leaderboard system should be refactored to accept any provider, convert provider data to internal data. Its [UI part](gamelib2/microvcl/leaderboard) should also be refactored.
+
+Improved test case coverage.
+
+Replace haxe.xml.Fast with haxe.xml.Access.
 
 I don't have immediate plans to implement any of the above, though.
 

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<package name="AllStrings" lang="en-US">
+	<string id="StrLdrId_NewScore"					value="New Score!" />	
+	<string id="StrLdrId_Submit"					value="Submit" />	
+	<string id="StrLdrId_Close"						value="Close" />	
+	<string id="StrLdrId_Retry"						value="Retry" />	
+	<string id="StrLdrId_PleaseWait"				value="Please wait" />	
+	<string id="StrLdrId_SubmitError"				value="Error submitting." />	
+	<string id="StrLdrId_Loading"					value="Loading" />	
+	<string id="StrLdrId_Score"						value="Score" />	
+	<string id="StrLdrId_Name"						value="Name" />	
+	<string id="StrLdrId_Day"						value="Day" />	
+	<string id="StrLdrId_Week"						value="Week" />	
+	<string id="StrLdrId_Month"						value="Month" />	
+	<string id="StrLdrId_AllTime"					value="All Time" />	
+	<string id="StrLdrId_Refresh"					value="Refresh" />	
+	<string id="StrLdrId_Stat"						value="Stat" />	
+	<string id="StrLdrId_HallOfFame"				value="Hall of Fame" />	
+	<string id="StrLdrId_Leaderboard"				value="Leaderboard" />	
+	<string id="StrLdrId_DefaultSubmitName"			value="Enter Your Name" />	
+	<string id="StrLdrId_NoScore"					value="No Score" />	
+	<string id="StrLdrId_NoStats"					value="No Stats" />	
+	<string id="StrLdrId_ErrorEmptyLeaderboard"		value="No Scores Submitted." />		
+	<string id="StrLdrId_ErrorLoadingLeaderboard"	value="Error Loading Leaderboard." />	
+	<string id="StrLdrId_CurrentScoreEmpty"			value="You haven't yet submitted a score." />		
+</package>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsprite version="1.0">
+    <colormaps />
+    <images>
+        <image id="4096" file="E:\Home\Karg\Projects\Haxe\SuperChicken\data\sprites\piron_logo_small.png" transparent="-1" info="No Info" />
+    </images>
+    <modules>
+        <module id="4096" imageid="4096" x="2" y="2" width="102" height="26" info="No info" />
+        <module id="4097" imageid="4096" x="110" y="1" width="104" height="28" info="No info" />
+    </modules>
+    <frames>
+        <frame id="4096" info="">
+            <fmodules>
+                <fmodule moduleid="4096" x="0" y="0" flags="0" />
+            </fmodules>
+            <flogics />
+        </frame>
+        <frame id="4097" info="">
+            <fmodules>
+                <fmodule moduleid="4097" x="0" y="0" flags="0" />
+            </fmodules>
+            <flogics />
+        </frame>
+    </frames>
+    <anims />
+</xsprite>

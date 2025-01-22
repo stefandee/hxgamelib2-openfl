@@ -1,0 +1,2473 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsprite version="1.0">
+	<colormaps />
+	<images>
+		<image id="4096" file="flags.png" transparent="-1" info="No Info" />
+	</images>
+	<modules>
+		<module id="4096" imageid="4096" x="0" y="0" width="24" height="19" info="ad - Andorra" />
+		<module id="4097" imageid="4096" x="24" y="0" width="24" height="19" info="ae - United Arab Emirates" />
+		<module id="4098" imageid="4096" x="48" y="0" width="24" height="19" info="af - Afghanistan" />
+		<module id="4099" imageid="4096" x="72" y="0" width="24" height="19" info="ag - Antigua and Barbuda" />
+		<module id="4100" imageid="4096" x="96" y="0" width="24" height="19" info="ai - Anguilla" />
+		<module id="4101" imageid="4096" x="120" y="0" width="24" height="19" info="al - Albania" />
+		<module id="4102" imageid="4096" x="144" y="0" width="24" height="19" info="am - Armenia" />
+		<module id="4103" imageid="4096" x="168" y="0" width="24" height="19" info="an - Netherlands Antilles" />
+		<module id="4104" imageid="4096" x="192" y="0" width="24" height="19" info="ao - Angola" />
+		<module id="4105" imageid="4096" x="216" y="0" width="24" height="19" info="aq - Antarctica" />
+		<module id="4106" imageid="4096" x="240" y="0" width="24" height="19" info="ar - Argentina" />
+		<module id="4107" imageid="4096" x="264" y="0" width="24" height="19" info="as - American Samoa" />
+		<module id="4108" imageid="4096" x="288" y="0" width="24" height="19" info="at - Austria" />
+		<module id="4109" imageid="4096" x="312" y="0" width="24" height="19" info="au - Australia" />
+		<module id="4110" imageid="4096" x="336" y="0" width="24" height="19" info="aw - Aruba" />
+		<module id="4111" imageid="4096" x="360" y="0" width="24" height="19" info="az - Azerbaijan" />
+		<module id="4112" imageid="4096" x="0" y="19" width="24" height="19" info="ba - Bosnia and Herzegovina" />
+		<module id="4113" imageid="4096" x="24" y="19" width="24" height="19" info="bb - Barbados" />
+		<module id="4114" imageid="4096" x="48" y="19" width="24" height="19" info="bd - Bangladesh" />
+		<module id="4115" imageid="4096" x="72" y="19" width="24" height="19" info="be - Belgium" />
+		<module id="4116" imageid="4096" x="96" y="19" width="24" height="19" info="bf - Burkina Faso" />
+		<module id="4117" imageid="4096" x="120" y="19" width="24" height="19" info="bg - Bulgaria" />
+		<module id="4118" imageid="4096" x="144" y="19" width="24" height="19" info="bh - Bahrain" />
+		<module id="4119" imageid="4096" x="168" y="19" width="24" height="19" info="bi - Burundi" />
+		<module id="4120" imageid="4096" x="192" y="19" width="24" height="19" info="bj - Benin" />
+		<module id="4121" imageid="4096" x="216" y="19" width="24" height="19" info="bm - Bermuda" />
+		<module id="4122" imageid="4096" x="240" y="19" width="24" height="19" info="bn - Brunei Darussalam" />
+		<module id="4123" imageid="4096" x="264" y="19" width="24" height="19" info="bo - Bolivia" />
+		<module id="4124" imageid="4096" x="288" y="19" width="24" height="19" info="br - Brazil" />
+		<module id="4125" imageid="4096" x="312" y="19" width="24" height="19" info="bs - Bahamas" />
+		<module id="4126" imageid="4096" x="336" y="19" width="24" height="19" info="bt - Bhutan" />
+		<module id="4127" imageid="4096" x="360" y="19" width="24" height="19" info="bv - Bouvet Island" />
+		<module id="4128" imageid="4096" x="0" y="38" width="24" height="19" info="bw - Botswana" />
+		<module id="4129" imageid="4096" x="24" y="38" width="24" height="19" info="by - Belarus" />
+		<module id="4130" imageid="4096" x="48" y="38" width="24" height="19" info="bz - Belize" />
+		<module id="4131" imageid="4096" x="72" y="38" width="24" height="19" info="ca - Canada" />
+		<module id="4132" imageid="4096" x="96" y="38" width="24" height="19" info="cc - Cocos (Keeling) Islands" />
+		<module id="4133" imageid="4096" x="120" y="38" width="24" height="19" info="cf - Central African Republic" />
+		<module id="4134" imageid="4096" x="144" y="38" width="24" height="19" info="cg - Congo" />
+		<module id="4135" imageid="4096" x="168" y="38" width="24" height="19" info="ch - Switzerland" />
+		<module id="4136" imageid="4096" x="192" y="38" width="24" height="19" info="ck - Cook Islands" />
+		<module id="4137" imageid="4096" x="216" y="38" width="24" height="19" info="cl - Chile" />
+		<module id="4138" imageid="4096" x="240" y="38" width="24" height="19" info="cm - Cameroon" />
+		<module id="4139" imageid="4096" x="264" y="38" width="24" height="19" info="cn - China" />
+		<module id="4140" imageid="4096" x="288" y="38" width="24" height="19" info="co - Colombia" />
+		<module id="4141" imageid="4096" x="312" y="38" width="24" height="19" info="cr - Costa Rica" />
+		<module id="4142" imageid="4096" x="336" y="38" width="24" height="19" info="cs - Serbia and Montenegro" />
+		<module id="4143" imageid="4096" x="360" y="38" width="24" height="19" info="cu - Cuba" />
+		<module id="4144" imageid="4096" x="0" y="57" width="24" height="19" info="cv - Cape Verde" />
+		<module id="4145" imageid="4096" x="24" y="57" width="24" height="19" info="cx - Christmas Island" />
+		<module id="4146" imageid="4096" x="48" y="57" width="24" height="19" info="cy - Cyprus" />
+		<module id="4147" imageid="4096" x="72" y="57" width="24" height="19" info="cz - Czech Republic" />
+		<module id="4148" imageid="4096" x="96" y="57" width="24" height="19" info="de - Germany" />
+		<module id="4149" imageid="4096" x="120" y="57" width="24" height="19" info="dj - Djibouti" />
+		<module id="4150" imageid="4096" x="144" y="57" width="24" height="19" info="dk - Denmark" />
+		<module id="4151" imageid="4096" x="168" y="57" width="24" height="19" info="dm - Dominica" />
+		<module id="4152" imageid="4096" x="192" y="57" width="24" height="19" info="do - Dominican Republic" />
+		<module id="4153" imageid="4096" x="216" y="57" width="24" height="19" info="dz - Algeria" />
+		<module id="4154" imageid="4096" x="240" y="57" width="24" height="19" info="ec - Ecuador" />
+		<module id="4155" imageid="4096" x="264" y="57" width="24" height="19" info="ee - Estonia" />
+		<module id="4156" imageid="4096" x="288" y="57" width="24" height="19" info="eg - Egypt" />
+		<module id="4157" imageid="4096" x="312" y="57" width="24" height="19" info="eh - Western Sahara" />
+		<module id="4158" imageid="4096" x="336" y="57" width="24" height="19" info="er - Eritrea" />
+		<module id="4159" imageid="4096" x="360" y="57" width="24" height="19" info="es - Spain" />
+		<module id="4160" imageid="4096" x="0" y="76" width="24" height="19" info="et - Ethiopia" />
+		<module id="4161" imageid="4096" x="24" y="76" width="24" height="19" info="fi - Finland" />
+		<module id="4162" imageid="4096" x="48" y="76" width="24" height="19" info="fj - Fiji" />
+		<module id="4163" imageid="4096" x="72" y="76" width="24" height="19" info="fk - Falkland Islands (Malvinas)" />
+		<module id="4164" imageid="4096" x="96" y="76" width="24" height="19" info="fm - Micronesia" />
+		<module id="4165" imageid="4096" x="120" y="76" width="24" height="19" info="fo - Faroe Islands" />
+		<module id="4166" imageid="4096" x="144" y="76" width="24" height="19" info="fr - France" />
+		<module id="4167" imageid="4096" x="168" y="76" width="24" height="19" info="ci - Ivory Coast" />
+		<module id="4168" imageid="4096" x="192" y="76" width="24" height="19" info="ga - Gabon" />
+		<module id="4169" imageid="4096" x="216" y="76" width="24" height="19" info="gd - Grenada" />
+		<module id="4170" imageid="4096" x="240" y="76" width="24" height="19" info="ge - Georgia" />
+		<module id="4171" imageid="4096" x="264" y="76" width="24" height="19" info="gf - French Guiana" />
+		<module id="4172" imageid="4096" x="288" y="76" width="24" height="19" info="gh - Ghana" />
+		<module id="4173" imageid="4096" x="312" y="76" width="24" height="19" info="gi - Gibraltar" />
+		<module id="4174" imageid="4096" x="336" y="76" width="24" height="19" info="gl - Greenland" />
+		<module id="4175" imageid="4096" x="360" y="76" width="24" height="19" info="gm - Gambia" />
+		<module id="4176" imageid="4096" x="0" y="95" width="24" height="19" info="gn - Guinea" />
+		<module id="4177" imageid="4096" x="24" y="95" width="24" height="19" info="gp - Guadeloupe" />
+		<module id="4178" imageid="4096" x="48" y="95" width="24" height="19" info="gq - Equatorial Guinea" />
+		<module id="4179" imageid="4096" x="72" y="95" width="24" height="19" info="gr - Greece" />
+		<module id="4180" imageid="4096" x="96" y="95" width="24" height="19" info="gs - S. Georgia and S. Sandwich Isls." />
+		<module id="4181" imageid="4096" x="120" y="95" width="24" height="19" info="gt - Guatemala" />
+		<module id="4182" imageid="4096" x="144" y="95" width="24" height="19" info="gu - Guam" />
+		<module id="4183" imageid="4096" x="168" y="95" width="24" height="19" info="gw - Guinea-Bissau" />
+		<module id="4184" imageid="4096" x="192" y="95" width="24" height="19" info="gy - Guyana" />
+		<module id="4185" imageid="4096" x="216" y="95" width="24" height="19" info="hk - Hong Kong" />
+		<module id="4186" imageid="4096" x="240" y="95" width="24" height="19" info="hm - Heard and McDonald Islands" />
+		<module id="4187" imageid="4096" x="264" y="95" width="24" height="19" info="hn - Honduras" />
+		<module id="4188" imageid="4096" x="288" y="95" width="24" height="19" info="hr - Croatia (Hrvatska)" />
+		<module id="4189" imageid="4096" x="312" y="95" width="24" height="19" info="ht - Haiti" />
+		<module id="4190" imageid="4096" x="336" y="95" width="24" height="19" info="hu - Hungary" />
+		<module id="4191" imageid="4096" x="360" y="95" width="24" height="19" info="id - Indonesia" />
+		<module id="4192" imageid="4096" x="0" y="114" width="24" height="19" info="ie - Ireland" />
+		<module id="4193" imageid="4096" x="24" y="114" width="24" height="19" info="il - Israel" />
+		<module id="4194" imageid="4096" x="48" y="114" width="24" height="19" info="in - India" />
+		<module id="4195" imageid="4096" x="72" y="114" width="24" height="19" info="io - British Indian Ocean Territory" />
+		<module id="4196" imageid="4096" x="96" y="114" width="24" height="19" info="iq - Iraq" />
+		<module id="4197" imageid="4096" x="120" y="114" width="24" height="19" info="ir - Iran" />
+		<module id="4198" imageid="4096" x="144" y="114" width="24" height="19" info="is - Iceland" />
+		<module id="4199" imageid="4096" x="168" y="114" width="24" height="19" info="it - Italy" />
+		<module id="4200" imageid="4096" x="192" y="114" width="24" height="19" info="jm - Jamaica" />
+		<module id="4201" imageid="4096" x="216" y="114" width="24" height="19" info="jo - Jordan" />
+		<module id="4202" imageid="4096" x="240" y="114" width="24" height="19" info="jp - Japan" />
+		<module id="4203" imageid="4096" x="264" y="114" width="24" height="19" info="ke - Kenya" />
+		<module id="4204" imageid="4096" x="288" y="114" width="24" height="19" info="kg - Kyrgyzstan" />
+		<module id="4205" imageid="4096" x="312" y="114" width="24" height="19" info="kh - Cambodia" />
+		<module id="4206" imageid="4096" x="336" y="114" width="24" height="19" info="ki - Kiribati" />
+		<module id="4207" imageid="4096" x="360" y="114" width="24" height="19" info="km - Comoros" />
+		<module id="4208" imageid="4096" x="0" y="133" width="24" height="19" info="kn - Saint Kitts and Nevis" />
+		<module id="4209" imageid="4096" x="24" y="133" width="24" height="19" info="kp - Korea (North)" />
+		<module id="4210" imageid="4096" x="48" y="133" width="24" height="19" info="kr - Korea (South)" />
+		<module id="4211" imageid="4096" x="72" y="133" width="24" height="19" info="kw - Kuwait" />
+		<module id="4212" imageid="4096" x="96" y="133" width="24" height="19" info="ky - Cayman Islands" />
+		<module id="4213" imageid="4096" x="120" y="133" width="24" height="19" info="kz - Kazakhstan" />
+		<module id="4214" imageid="4096" x="144" y="133" width="24" height="19" info="la - Laos" />
+		<module id="4215" imageid="4096" x="168" y="133" width="24" height="19" info="lb - Lebanon" />
+		<module id="4216" imageid="4096" x="192" y="133" width="24" height="19" info="lc - Saint Lucia" />
+		<module id="4217" imageid="4096" x="216" y="133" width="24" height="19" info="li - Liechtenstein" />
+		<module id="4218" imageid="4096" x="240" y="133" width="24" height="19" info="lk - Sri Lanka" />
+		<module id="4219" imageid="4096" x="264" y="133" width="24" height="19" info="lr - Liberia" />
+		<module id="4220" imageid="4096" x="288" y="133" width="24" height="19" info="ls - Lesotho" />
+		<module id="4221" imageid="4096" x="312" y="133" width="24" height="19" info="lt - Lithuania" />
+		<module id="4222" imageid="4096" x="336" y="133" width="24" height="19" info="lu - Luxembourg" />
+		<module id="4223" imageid="4096" x="360" y="133" width="24" height="19" info="lv - Latvia" />
+		<module id="4224" imageid="4096" x="0" y="152" width="24" height="19" info="ly - Libya" />
+		<module id="4225" imageid="4096" x="24" y="152" width="24" height="19" info="ma - Morocco" />
+		<module id="4226" imageid="4096" x="48" y="152" width="24" height="19" info="mc - Monaco" />
+		<module id="4227" imageid="4096" x="72" y="152" width="24" height="19" info="md - Moldova" />
+		<module id="4228" imageid="4096" x="96" y="152" width="24" height="19" info="mg - Madagascar" />
+		<module id="4229" imageid="4096" x="120" y="152" width="24" height="19" info="mh - Marshall Islands" />
+		<module id="4230" imageid="4096" x="144" y="152" width="24" height="19" info="mk - Macedonia" />
+		<module id="4231" imageid="4096" x="168" y="152" width="24" height="19" info="ml - Mali" />
+		<module id="4232" imageid="4096" x="192" y="152" width="24" height="19" info="mm - Burma (Myanmar)" />
+		<module id="4233" imageid="4096" x="216" y="152" width="24" height="19" info="mn - Mongolia" />
+		<module id="4234" imageid="4096" x="240" y="152" width="24" height="19" info="mo - Macau" />
+		<module id="4235" imageid="4096" x="264" y="152" width="24" height="19" info="mp - Northern Mariana Islands" />
+		<module id="4236" imageid="4096" x="288" y="152" width="24" height="19" info="mq - Martinique" />
+		<module id="4237" imageid="4096" x="312" y="152" width="24" height="19" info="mr - Mauritania" />
+		<module id="4238" imageid="4096" x="336" y="152" width="24" height="19" info="ms - Montserrat" />
+		<module id="4239" imageid="4096" x="360" y="152" width="24" height="19" info="mt - Malta" />
+		<module id="4240" imageid="4096" x="0" y="171" width="24" height="19" info="mu - Mauritius" />
+		<module id="4241" imageid="4096" x="24" y="171" width="24" height="19" info="mv - Maldives" />
+		<module id="4242" imageid="4096" x="48" y="171" width="24" height="19" info="mw - Malawi" />
+		<module id="4243" imageid="4096" x="72" y="171" width="24" height="19" info="mx - Mexico" />
+		<module id="4244" imageid="4096" x="96" y="171" width="24" height="19" info="my - Malaysia" />
+		<module id="4245" imageid="4096" x="120" y="171" width="24" height="19" info="mz - Mozambique" />
+		<module id="4246" imageid="4096" x="144" y="171" width="24" height="19" info="na - Namibia" />
+		<module id="4247" imageid="4096" x="168" y="171" width="24" height="19" info="nc - New Caledonia" />
+		<module id="4248" imageid="4096" x="192" y="171" width="24" height="19" info="ne - Niger" />
+		<module id="4249" imageid="4096" x="216" y="171" width="24" height="19" info="nf - Norfolk Island" />
+		<module id="4250" imageid="4096" x="240" y="171" width="24" height="19" info="ng - Nigeria" />
+		<module id="4251" imageid="4096" x="264" y="171" width="24" height="19" info="ni - Nicaragua" />
+		<module id="4252" imageid="4096" x="288" y="171" width="24" height="19" info="nl - Netherlands" />
+		<module id="4253" imageid="4096" x="312" y="171" width="24" height="19" info="no - Norway" />
+		<module id="4254" imageid="4096" x="336" y="171" width="24" height="19" info="np - Nepal" />
+		<module id="4255" imageid="4096" x="360" y="171" width="24" height="19" info="nr - Nauru" />
+		<module id="4256" imageid="4096" x="0" y="190" width="24" height="19" info="nt - Neutral Zone" />
+		<module id="4257" imageid="4096" x="24" y="190" width="24" height="19" info="nu - Niue" />
+		<module id="4258" imageid="4096" x="48" y="190" width="24" height="19" info="nz - New Zealand (Aotearoa)" />
+		<module id="4259" imageid="4096" x="72" y="190" width="24" height="19" info="om - Oman" />
+		<module id="4260" imageid="4096" x="96" y="190" width="24" height="19" info="pa - Panama" />
+		<module id="4261" imageid="4096" x="120" y="190" width="24" height="19" info="pe - Peru" />
+		<module id="4262" imageid="4096" x="144" y="190" width="24" height="19" info="pf - French Polynesia" />
+		<module id="4263" imageid="4096" x="168" y="190" width="24" height="19" info="pg - Papua New Guinea" />
+		<module id="4264" imageid="4096" x="192" y="190" width="24" height="19" info="ph - Philippines" />
+		<module id="4265" imageid="4096" x="216" y="190" width="24" height="19" info="pk - Pakistan" />
+		<module id="4266" imageid="4096" x="240" y="190" width="24" height="19" info="pl - Poland" />
+		<module id="4267" imageid="4096" x="264" y="190" width="24" height="19" info="pm - St. Pierre and Miquelon" />
+		<module id="4268" imageid="4096" x="288" y="190" width="24" height="19" info="pn - Pitcairn" />
+		<module id="4269" imageid="4096" x="312" y="190" width="24" height="19" info="pr - Puerto Rico" />
+		<module id="4270" imageid="4096" x="336" y="190" width="24" height="19" info="pt - Portugal" />
+		<module id="4271" imageid="4096" x="360" y="190" width="24" height="19" info="pw - Palau" />
+		<module id="4272" imageid="4096" x="0" y="209" width="24" height="19" info="py - Paraguay" />
+		<module id="4273" imageid="4096" x="24" y="209" width="24" height="19" info="qa - Qatar" />
+		<module id="4274" imageid="4096" x="48" y="209" width="24" height="19" info="re - Reunion" />
+		<module id="4275" imageid="4096" x="72" y="209" width="24" height="19" info="ro - Romania" />
+		<module id="4276" imageid="4096" x="96" y="209" width="24" height="19" info="ru - Russia" />
+		<module id="4277" imageid="4096" x="120" y="209" width="24" height="19" info="rw - Rwanda" />
+		<module id="4278" imageid="4096" x="144" y="209" width="24" height="19" info="sa - Saudi Arabia" />
+		<module id="4279" imageid="4096" x="168" y="209" width="24" height="19" info="sb - Solomon Islands" />
+		<module id="4280" imageid="4096" x="192" y="209" width="24" height="19" info="sc - Seychelles" />
+		<module id="4281" imageid="4096" x="216" y="209" width="24" height="19" info="sd - Sudan" />
+		<module id="4282" imageid="4096" x="240" y="209" width="24" height="19" info="se - Sweden" />
+		<module id="4283" imageid="4096" x="264" y="209" width="24" height="19" info="sg - Singapore" />
+		<module id="4284" imageid="4096" x="288" y="209" width="24" height="19" info="sh - St. Helena" />
+		<module id="4285" imageid="4096" x="312" y="209" width="24" height="19" info="si - Slovenia" />
+		<module id="4286" imageid="4096" x="336" y="209" width="24" height="19" info="sj - Svalbard and Jan Mayen Islands" />
+		<module id="4287" imageid="4096" x="360" y="209" width="24" height="19" info="sk - Slovak Republic" />
+		<module id="4288" imageid="4096" x="0" y="228" width="24" height="19" info="sl - Sierra Leone" />
+		<module id="4289" imageid="4096" x="24" y="228" width="24" height="19" info="sm - San Marino" />
+		<module id="4290" imageid="4096" x="48" y="228" width="24" height="19" info="sn - Senegal" />
+		<module id="4291" imageid="4096" x="72" y="228" width="24" height="19" info="so - Somalia" />
+		<module id="4292" imageid="4096" x="96" y="228" width="24" height="19" info="sr - Suriname" />
+		<module id="4293" imageid="4096" x="120" y="228" width="24" height="19" info="st - Sao Tome and Principe" />
+		<module id="4294" imageid="4096" x="144" y="228" width="24" height="19" info="sv - El Salvador" />
+		<module id="4295" imageid="4096" x="168" y="228" width="24" height="19" info="sy - Syria" />
+		<module id="4296" imageid="4096" x="192" y="228" width="24" height="19" info="sz - Swaziland" />
+		<module id="4297" imageid="4096" x="216" y="228" width="24" height="19" info="tc - Turks and Caicos Islands" />
+		<module id="4298" imageid="4096" x="240" y="228" width="24" height="19" info="td - Chad" />
+		<module id="4299" imageid="4096" x="264" y="228" width="24" height="19" info="tf - French Southern Territories" />
+		<module id="4300" imageid="4096" x="288" y="228" width="24" height="19" info="tg - Togo" />
+		<module id="4301" imageid="4096" x="312" y="228" width="24" height="19" info="th - Thailand" />
+		<module id="4302" imageid="4096" x="336" y="228" width="24" height="19" info="tj - Tajikistan" />
+		<module id="4303" imageid="4096" x="360" y="228" width="24" height="19" info="tk - Tokelau" />
+		<module id="4304" imageid="4096" x="0" y="247" width="24" height="19" info="tm - Turkmenistan" />
+		<module id="4305" imageid="4096" x="24" y="247" width="24" height="19" info="tn - Tunisia" />
+		<module id="4306" imageid="4096" x="48" y="247" width="24" height="19" info="to - Tonga" />
+		<module id="4307" imageid="4096" x="72" y="247" width="24" height="19" info="tl - East Timor" />
+		<module id="4308" imageid="4096" x="96" y="247" width="24" height="19" info="tr - Turkey" />
+		<module id="4309" imageid="4096" x="120" y="247" width="24" height="19" info="tt - Trinidad and Tobago" />
+		<module id="4310" imageid="4096" x="144" y="247" width="24" height="19" info="tv - Tuvalu" />
+		<module id="4311" imageid="4096" x="168" y="247" width="24" height="19" info="tw - Taiwan" />
+		<module id="4312" imageid="4096" x="192" y="247" width="24" height="19" info="tz - Tanzania" />
+		<module id="4313" imageid="4096" x="216" y="247" width="24" height="19" info="ua - Ukraine" />
+		<module id="4314" imageid="4096" x="240" y="247" width="24" height="19" info="ug - Uganda" />
+		<module id="4315" imageid="4096" x="264" y="247" width="24" height="19" info="uk - United Kingdom" />
+		<module id="4316" imageid="4096" x="288" y="247" width="24" height="19" info="us - United States" />
+		<module id="4317" imageid="4096" x="312" y="247" width="24" height="19" info="uy - Uruguay" />
+		<module id="4318" imageid="4096" x="336" y="247" width="24" height="19" info="uz - Uzbekistan" />
+		<module id="4319" imageid="4096" x="360" y="247" width="24" height="19" info="va - Vatican City State (Holy See)" />
+		<module id="4320" imageid="4096" x="0" y="266" width="24" height="19" info="vc - Saint Vincent and the Grenadines" />
+		<module id="4321" imageid="4096" x="24" y="266" width="24" height="19" info="ve - Venezuela" />
+		<module id="4322" imageid="4096" x="48" y="266" width="24" height="19" info="vg - Virgin Islands (British)" />
+		<module id="4323" imageid="4096" x="72" y="266" width="24" height="19" info="vi - Virgin Islands (U.S.)" />
+		<module id="4324" imageid="4096" x="96" y="266" width="24" height="19" info="vn - Viet Nam" />
+		<module id="4325" imageid="4096" x="120" y="266" width="24" height="19" info="vu - Vanuatu" />
+		<module id="4326" imageid="4096" x="144" y="266" width="24" height="19" info="wf - Wallis and Futuna Islands" />
+		<module id="4327" imageid="4096" x="168" y="266" width="24" height="19" info="ws - Samoa" />
+		<module id="4328" imageid="4096" x="192" y="266" width="24" height="19" info="ye - Yemen" />
+		<module id="4329" imageid="4096" x="216" y="266" width="24" height="19" info="yt - Mayotte" />
+		<module id="4330" imageid="4096" x="240" y="266" width="24" height="19" info="yu - Yugoslavia" />
+		<module id="4331" imageid="4096" x="264" y="266" width="24" height="19" info="za - South Africa" />
+		<module id="4332" imageid="4096" x="288" y="266" width="24" height="19" info="zm - Zambia" />
+		<module id="4333" imageid="4096" x="312" y="266" width="24" height="19" info="cd - Democratic Republic of Congo" />
+		<module id="4334" imageid="4096" x="336" y="266" width="24" height="19" info="zw - Zimbabwe" />
+		<module id="4335" imageid="4096" x="360" y="266" width="24" height="19" info="ap - Asia-Pacific" />
+		<module id="4336" imageid="4096" x="0" y="285" width="24" height="19" info="rs - Republic of Serbia" />
+		<module id="4337" imageid="4096" x="24" y="285" width="24" height="19" info="ax - Aland Islands" />
+		<module id="4338" imageid="4096" x="48" y="285" width="24" height="19" info="eu - Europe" />
+		<module id="4339" imageid="4096" x="72" y="285" width="24" height="19" info="01 - Private" />
+		<module id="4340" imageid="4096" x="96" y="285" width="24" height="19" info="ps - Palestinian Territory, Occupied" />
+		<module id="4341" imageid="4096" x="120" y="285" width="24" height="19" info="me - Montenegro" />
+	</modules>
+	<frames>
+		<frame id="4096" info="ad - Andorra">
+			<fmodules>
+				<fmodule moduleid="4096" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4097" info="ae - United Arab Emirates">
+			<fmodules>
+				<fmodule moduleid="4097" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4098" info="af - Afghanistan">
+			<fmodules>
+				<fmodule moduleid="4098" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4099" info="ag - Antigua and Barbuda">
+			<fmodules>
+				<fmodule moduleid="4099" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4100" info="ai - Anguilla">
+			<fmodules>
+				<fmodule moduleid="4100" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4101" info="al - Albania">
+			<fmodules>
+				<fmodule moduleid="4101" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4102" info="am - Armenia">
+			<fmodules>
+				<fmodule moduleid="4102" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4103" info="an - Netherlands Antilles">
+			<fmodules>
+				<fmodule moduleid="4103" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4104" info="ao - Angola">
+			<fmodules>
+				<fmodule moduleid="4104" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4105" info="aq - Antarctica">
+			<fmodules>
+				<fmodule moduleid="4105" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4106" info="ar - Argentina">
+			<fmodules>
+				<fmodule moduleid="4106" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4107" info="as - American Samoa">
+			<fmodules>
+				<fmodule moduleid="4107" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4108" info="at - Austria">
+			<fmodules>
+				<fmodule moduleid="4108" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4109" info="au - Australia">
+			<fmodules>
+				<fmodule moduleid="4109" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4110" info="aw - Aruba">
+			<fmodules>
+				<fmodule moduleid="4110" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4111" info="az - Azerbaijan">
+			<fmodules>
+				<fmodule moduleid="4111" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4112" info="ba - Bosnia and Herzegovina">
+			<fmodules>
+				<fmodule moduleid="4112" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4113" info="bb - Barbados">
+			<fmodules>
+				<fmodule moduleid="4113" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4114" info="bd - Bangladesh">
+			<fmodules>
+				<fmodule moduleid="4114" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4115" info="be - Belgium">
+			<fmodules>
+				<fmodule moduleid="4115" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4116" info="bf - Burkina Faso">
+			<fmodules>
+				<fmodule moduleid="4116" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4117" info="bg - Bulgaria">
+			<fmodules>
+				<fmodule moduleid="4117" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4118" info="bh - Bahrain">
+			<fmodules>
+				<fmodule moduleid="4118" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4119" info="bi - Burundi">
+			<fmodules>
+				<fmodule moduleid="4119" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4120" info="bj - Benin">
+			<fmodules>
+				<fmodule moduleid="4120" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4121" info="bm - Bermuda">
+			<fmodules>
+				<fmodule moduleid="4121" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4122" info="bn - Brunei Darussalam">
+			<fmodules>
+				<fmodule moduleid="4122" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4123" info="bo - Bolivia">
+			<fmodules>
+				<fmodule moduleid="4123" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4124" info="br - Brazil">
+			<fmodules>
+				<fmodule moduleid="4124" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4125" info="bs - Bahamas">
+			<fmodules>
+				<fmodule moduleid="4125" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4126" info="bt - Bhutan">
+			<fmodules>
+				<fmodule moduleid="4126" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4127" info="bv - Bouvet Island">
+			<fmodules>
+				<fmodule moduleid="4127" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4128" info="bw - Botswana">
+			<fmodules>
+				<fmodule moduleid="4128" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4129" info="by - Belarus">
+			<fmodules>
+				<fmodule moduleid="4129" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4130" info="bz - Belize">
+			<fmodules>
+				<fmodule moduleid="4130" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4131" info="ca - Canada">
+			<fmodules>
+				<fmodule moduleid="4131" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4132" info="cc - Cocos (Keeling) Islands">
+			<fmodules>
+				<fmodule moduleid="4132" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4133" info="cf - Central African Republic">
+			<fmodules>
+				<fmodule moduleid="4133" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4134" info="cg - Congo">
+			<fmodules>
+				<fmodule moduleid="4134" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4135" info="ch - Switzerland">
+			<fmodules>
+				<fmodule moduleid="4135" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4136" info="ck - Cook Islands">
+			<fmodules>
+				<fmodule moduleid="4136" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4137" info="cl - Chile">
+			<fmodules>
+				<fmodule moduleid="4137" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4138" info="cm - Cameroon">
+			<fmodules>
+				<fmodule moduleid="4138" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4139" info="cn - China">
+			<fmodules>
+				<fmodule moduleid="4139" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4140" info="co - Colombia">
+			<fmodules>
+				<fmodule moduleid="4140" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4141" info="cr - Costa Rica">
+			<fmodules>
+				<fmodule moduleid="4141" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4142" info="cs - Serbia and Montenegro">
+			<fmodules>
+				<fmodule moduleid="4142" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4143" info="cu - Cuba">
+			<fmodules>
+				<fmodule moduleid="4143" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4144" info="cv - Cape Verde">
+			<fmodules>
+				<fmodule moduleid="4144" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4145" info="cx - Christmas Island">
+			<fmodules>
+				<fmodule moduleid="4145" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4146" info="cy - Cyprus">
+			<fmodules>
+				<fmodule moduleid="4146" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4147" info="cz - Czech Republic">
+			<fmodules>
+				<fmodule moduleid="4147" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4148" info="de - Germany">
+			<fmodules>
+				<fmodule moduleid="4148" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4149" info="dj - Djibouti">
+			<fmodules>
+				<fmodule moduleid="4149" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4150" info="dk - Denmark">
+			<fmodules>
+				<fmodule moduleid="4150" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4151" info="dm - Dominica">
+			<fmodules>
+				<fmodule moduleid="4151" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4152" info="do - Dominican Republic">
+			<fmodules>
+				<fmodule moduleid="4152" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4153" info="dz - Algeria">
+			<fmodules>
+				<fmodule moduleid="4153" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4154" info="ec - Ecuador">
+			<fmodules>
+				<fmodule moduleid="4154" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4155" info="ee - Estonia">
+			<fmodules>
+				<fmodule moduleid="4155" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4156" info="eg - Egypt">
+			<fmodules>
+				<fmodule moduleid="4156" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4157" info="eh - Western Sahara">
+			<fmodules>
+				<fmodule moduleid="4157" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4158" info="er - Eritrea">
+			<fmodules>
+				<fmodule moduleid="4158" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4159" info="es - Spain">
+			<fmodules>
+				<fmodule moduleid="4159" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4160" info="et - Ethiopia">
+			<fmodules>
+				<fmodule moduleid="4160" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4161" info="fi - Finland">
+			<fmodules>
+				<fmodule moduleid="4161" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4162" info="fj - Fiji">
+			<fmodules>
+				<fmodule moduleid="4162" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4163" info="fk - Falkland Islands (Malvinas)">
+			<fmodules>
+				<fmodule moduleid="4163" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4164" info="fm - Micronesia">
+			<fmodules>
+				<fmodule moduleid="4164" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4165" info="fo - Faroe Islands">
+			<fmodules>
+				<fmodule moduleid="4165" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4166" info="fr - France">
+			<fmodules>
+				<fmodule moduleid="4166" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4167" info="ci - Ivory Coast">
+			<fmodules>
+				<fmodule moduleid="4167" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4168" info="ga - Gabon">
+			<fmodules>
+				<fmodule moduleid="4168" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4169" info="gd - Grenada">
+			<fmodules>
+				<fmodule moduleid="4169" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4170" info="ge - Georgia">
+			<fmodules>
+				<fmodule moduleid="4170" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4171" info="gf - French Guiana">
+			<fmodules>
+				<fmodule moduleid="4171" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4172" info="gh - Ghana">
+			<fmodules>
+				<fmodule moduleid="4172" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4173" info="gi - Gibraltar">
+			<fmodules>
+				<fmodule moduleid="4173" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4174" info="gl - Greenland">
+			<fmodules>
+				<fmodule moduleid="4174" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4175" info="gm - Gambia">
+			<fmodules>
+				<fmodule moduleid="4175" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4176" info="gn - Guinea">
+			<fmodules>
+				<fmodule moduleid="4176" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4177" info="gp - Guadeloupe">
+			<fmodules>
+				<fmodule moduleid="4177" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4178" info="gq - Equatorial Guinea">
+			<fmodules>
+				<fmodule moduleid="4178" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4179" info="gr - Greece">
+			<fmodules>
+				<fmodule moduleid="4179" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4180" info="gs - S. Georgia and S. Sandwich Isls.">
+			<fmodules>
+				<fmodule moduleid="4180" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4181" info="gt - Guatemala">
+			<fmodules>
+				<fmodule moduleid="4181" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4182" info="gu - Guam">
+			<fmodules>
+				<fmodule moduleid="4182" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4183" info="gw - Guinea-Bissau">
+			<fmodules>
+				<fmodule moduleid="4183" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4184" info="gy - Guyana">
+			<fmodules>
+				<fmodule moduleid="4184" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4185" info="hk - Hong Kong">
+			<fmodules>
+				<fmodule moduleid="4185" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4186" info="hm - Heard and McDonald Islands">
+			<fmodules>
+				<fmodule moduleid="4186" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4187" info="hn - Honduras">
+			<fmodules>
+				<fmodule moduleid="4187" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4188" info="hr - Croatia (Hrvatska)">
+			<fmodules>
+				<fmodule moduleid="4188" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4189" info="ht - Haiti">
+			<fmodules>
+				<fmodule moduleid="4189" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4190" info="hu - Hungary">
+			<fmodules>
+				<fmodule moduleid="4190" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4191" info="id - Indonesia">
+			<fmodules>
+				<fmodule moduleid="4191" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4192" info="ie - Ireland">
+			<fmodules>
+				<fmodule moduleid="4192" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4193" info="il - Israel">
+			<fmodules>
+				<fmodule moduleid="4193" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4194" info="in - India">
+			<fmodules>
+				<fmodule moduleid="4194" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4195" info="io - British Indian Ocean Territory">
+			<fmodules>
+				<fmodule moduleid="4195" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4196" info="iq - Iraq">
+			<fmodules>
+				<fmodule moduleid="4196" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4197" info="ir - Iran">
+			<fmodules>
+				<fmodule moduleid="4197" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4198" info="is - Iceland">
+			<fmodules>
+				<fmodule moduleid="4198" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4199" info="it - Italy">
+			<fmodules>
+				<fmodule moduleid="4199" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4200" info="jm - Jamaica">
+			<fmodules>
+				<fmodule moduleid="4200" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4201" info="jo - Jordan">
+			<fmodules>
+				<fmodule moduleid="4201" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4202" info="jp - Japan">
+			<fmodules>
+				<fmodule moduleid="4202" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4203" info="ke - Kenya">
+			<fmodules>
+				<fmodule moduleid="4203" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4204" info="kg - Kyrgyzstan">
+			<fmodules>
+				<fmodule moduleid="4204" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4205" info="kh - Cambodia">
+			<fmodules>
+				<fmodule moduleid="4205" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4206" info="ki - Kiribati">
+			<fmodules>
+				<fmodule moduleid="4206" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4207" info="km - Comoros">
+			<fmodules>
+				<fmodule moduleid="4207" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4208" info="kn - Saint Kitts and Nevis">
+			<fmodules>
+				<fmodule moduleid="4208" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4209" info="kp - Korea (North)">
+			<fmodules>
+				<fmodule moduleid="4209" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4210" info="kr - Korea (South)">
+			<fmodules>
+				<fmodule moduleid="4210" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4211" info="kw - Kuwait">
+			<fmodules>
+				<fmodule moduleid="4211" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4212" info="ky - Cayman Islands">
+			<fmodules>
+				<fmodule moduleid="4212" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4213" info="kz - Kazakhstan">
+			<fmodules>
+				<fmodule moduleid="4213" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4214" info="la - Laos">
+			<fmodules>
+				<fmodule moduleid="4214" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4215" info="lb - Lebanon">
+			<fmodules>
+				<fmodule moduleid="4215" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4216" info="lc - Saint Lucia">
+			<fmodules>
+				<fmodule moduleid="4216" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4217" info="li - Liechtenstein">
+			<fmodules>
+				<fmodule moduleid="4217" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4218" info="lk - Sri Lanka">
+			<fmodules>
+				<fmodule moduleid="4218" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4219" info="lr - Liberia">
+			<fmodules>
+				<fmodule moduleid="4219" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4220" info="ls - Lesotho">
+			<fmodules>
+				<fmodule moduleid="4220" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4221" info="lt - Lithuania">
+			<fmodules>
+				<fmodule moduleid="4221" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4222" info="lu - Luxembourg">
+			<fmodules>
+				<fmodule moduleid="4222" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4223" info="lv - Latvia">
+			<fmodules>
+				<fmodule moduleid="4223" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4224" info="ly - Libya">
+			<fmodules>
+				<fmodule moduleid="4224" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4225" info="ma - Morocco">
+			<fmodules>
+				<fmodule moduleid="4225" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4226" info="mc - Monaco">
+			<fmodules>
+				<fmodule moduleid="4226" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4227" info="md - Moldova">
+			<fmodules>
+				<fmodule moduleid="4227" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4228" info="mg - Madagascar">
+			<fmodules>
+				<fmodule moduleid="4228" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4229" info="mh - Marshall Islands">
+			<fmodules>
+				<fmodule moduleid="4229" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4230" info="mk - Macedonia">
+			<fmodules>
+				<fmodule moduleid="4230" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4231" info="ml - Mali">
+			<fmodules>
+				<fmodule moduleid="4231" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4232" info="mm - Burma (Myanmar)">
+			<fmodules>
+				<fmodule moduleid="4232" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4233" info="mn - Mongolia">
+			<fmodules>
+				<fmodule moduleid="4233" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4234" info="mo - Macau">
+			<fmodules>
+				<fmodule moduleid="4234" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4235" info="mp - Northern Mariana Islands">
+			<fmodules>
+				<fmodule moduleid="4235" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4236" info="mq - Martinique">
+			<fmodules>
+				<fmodule moduleid="4236" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4237" info="mr - Mauritania">
+			<fmodules>
+				<fmodule moduleid="4237" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4238" info="ms - Montserrat">
+			<fmodules>
+				<fmodule moduleid="4238" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4239" info="mt - Malta">
+			<fmodules>
+				<fmodule moduleid="4239" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4240" info="mu - Mauritius">
+			<fmodules>
+				<fmodule moduleid="4240" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4241" info="mv - Maldives">
+			<fmodules>
+				<fmodule moduleid="4241" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4242" info="mw - Malawi">
+			<fmodules>
+				<fmodule moduleid="4242" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4243" info="mx - Mexico">
+			<fmodules>
+				<fmodule moduleid="4243" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4244" info="my - Malaysia">
+			<fmodules>
+				<fmodule moduleid="4244" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4245" info="mz - Mozambique">
+			<fmodules>
+				<fmodule moduleid="4245" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4246" info="na - Namibia">
+			<fmodules>
+				<fmodule moduleid="4246" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4247" info="nc - New Caledonia">
+			<fmodules>
+				<fmodule moduleid="4247" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4248" info="ne - Niger">
+			<fmodules>
+				<fmodule moduleid="4248" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4249" info="nf - Norfolk Island">
+			<fmodules>
+				<fmodule moduleid="4249" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4250" info="ng - Nigeria">
+			<fmodules>
+				<fmodule moduleid="4250" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4251" info="ni - Nicaragua">
+			<fmodules>
+				<fmodule moduleid="4251" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4252" info="nl - Netherlands">
+			<fmodules>
+				<fmodule moduleid="4252" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4253" info="no - Norway">
+			<fmodules>
+				<fmodule moduleid="4253" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4254" info="np - Nepal">
+			<fmodules>
+				<fmodule moduleid="4254" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4255" info="nr - Nauru">
+			<fmodules>
+				<fmodule moduleid="4255" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4256" info="nt - Neutral Zone">
+			<fmodules>
+				<fmodule moduleid="4256" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4257" info="nu - Niue">
+			<fmodules>
+				<fmodule moduleid="4257" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4258" info="nz - New Zealand (Aotearoa)">
+			<fmodules>
+				<fmodule moduleid="4258" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4259" info="om - Oman">
+			<fmodules>
+				<fmodule moduleid="4259" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4260" info="pa - Panama">
+			<fmodules>
+				<fmodule moduleid="4260" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4261" info="pe - Peru">
+			<fmodules>
+				<fmodule moduleid="4261" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4262" info="pf - French Polynesia">
+			<fmodules>
+				<fmodule moduleid="4262" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4263" info="pg - Papua New Guinea">
+			<fmodules>
+				<fmodule moduleid="4263" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4264" info="ph - Philippines">
+			<fmodules>
+				<fmodule moduleid="4264" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4265" info="pk - Pakistan">
+			<fmodules>
+				<fmodule moduleid="4265" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4266" info="pl - Poland">
+			<fmodules>
+				<fmodule moduleid="4266" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4267" info="pm - St. Pierre and Miquelon">
+			<fmodules>
+				<fmodule moduleid="4267" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4268" info="pn - Pitcairn">
+			<fmodules>
+				<fmodule moduleid="4268" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4269" info="pr - Puerto Rico">
+			<fmodules>
+				<fmodule moduleid="4269" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4270" info="pt - Portugal">
+			<fmodules>
+				<fmodule moduleid="4270" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4271" info="pw - Palau">
+			<fmodules>
+				<fmodule moduleid="4271" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4272" info="py - Paraguay">
+			<fmodules>
+				<fmodule moduleid="4272" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4273" info="qa - Qatar">
+			<fmodules>
+				<fmodule moduleid="4273" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4274" info="re - Reunion">
+			<fmodules>
+				<fmodule moduleid="4274" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4275" info="ro - Romania">
+			<fmodules>
+				<fmodule moduleid="4275" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4276" info="ru - Russia">
+			<fmodules>
+				<fmodule moduleid="4276" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4277" info="rw - Rwanda">
+			<fmodules>
+				<fmodule moduleid="4277" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4278" info="sa - Saudi Arabia">
+			<fmodules>
+				<fmodule moduleid="4278" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4279" info="sb - Solomon Islands">
+			<fmodules>
+				<fmodule moduleid="4279" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4280" info="sc - Seychelles">
+			<fmodules>
+				<fmodule moduleid="4280" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4281" info="sd - Sudan">
+			<fmodules>
+				<fmodule moduleid="4281" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4282" info="se - Sweden">
+			<fmodules>
+				<fmodule moduleid="4282" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4283" info="sg - Singapore">
+			<fmodules>
+				<fmodule moduleid="4283" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4284" info="sh - St. Helena">
+			<fmodules>
+				<fmodule moduleid="4284" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4285" info="si - Slovenia">
+			<fmodules>
+				<fmodule moduleid="4285" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4286" info="sj - Svalbard and Jan Mayen Islands">
+			<fmodules>
+				<fmodule moduleid="4286" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4287" info="sk - Slovak Republic">
+			<fmodules>
+				<fmodule moduleid="4287" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4288" info="sl - Sierra Leone">
+			<fmodules>
+				<fmodule moduleid="4288" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4289" info="sm - San Marino">
+			<fmodules>
+				<fmodule moduleid="4289" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4290" info="sn - Senegal">
+			<fmodules>
+				<fmodule moduleid="4290" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4291" info="so - Somalia">
+			<fmodules>
+				<fmodule moduleid="4291" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4292" info="sr - Suriname">
+			<fmodules>
+				<fmodule moduleid="4292" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4293" info="st - Sao Tome and Principe">
+			<fmodules>
+				<fmodule moduleid="4293" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4294" info="sv - El Salvador">
+			<fmodules>
+				<fmodule moduleid="4294" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4295" info="sy - Syria">
+			<fmodules>
+				<fmodule moduleid="4295" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4296" info="sz - Swaziland">
+			<fmodules>
+				<fmodule moduleid="4296" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4297" info="tc - Turks and Caicos Islands">
+			<fmodules>
+				<fmodule moduleid="4297" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4298" info="td - Chad">
+			<fmodules>
+				<fmodule moduleid="4298" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4299" info="tf - French Southern Territories">
+			<fmodules>
+				<fmodule moduleid="4299" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4300" info="tg - Togo">
+			<fmodules>
+				<fmodule moduleid="4300" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4301" info="th - Thailand">
+			<fmodules>
+				<fmodule moduleid="4301" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4302" info="tj - Tajikistan">
+			<fmodules>
+				<fmodule moduleid="4302" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4303" info="tk - Tokelau">
+			<fmodules>
+				<fmodule moduleid="4303" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4304" info="tm - Turkmenistan">
+			<fmodules>
+				<fmodule moduleid="4304" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4305" info="tn - Tunisia">
+			<fmodules>
+				<fmodule moduleid="4305" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4306" info="to - Tonga">
+			<fmodules>
+				<fmodule moduleid="4306" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4307" info="tl - East Timor">
+			<fmodules>
+				<fmodule moduleid="4307" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4308" info="tr - Turkey">
+			<fmodules>
+				<fmodule moduleid="4308" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4309" info="tt - Trinidad and Tobago">
+			<fmodules>
+				<fmodule moduleid="4309" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4310" info="tv - Tuvalu">
+			<fmodules>
+				<fmodule moduleid="4310" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4311" info="tw - Taiwan">
+			<fmodules>
+				<fmodule moduleid="4311" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4312" info="tz - Tanzania">
+			<fmodules>
+				<fmodule moduleid="4312" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4313" info="ua - Ukraine">
+			<fmodules>
+				<fmodule moduleid="4313" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4314" info="ug - Uganda">
+			<fmodules>
+				<fmodule moduleid="4314" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4315" info="uk - United Kingdom">
+			<fmodules>
+				<fmodule moduleid="4315" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4316" info="us - United States">
+			<fmodules>
+				<fmodule moduleid="4316" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4317" info="uy - Uruguay">
+			<fmodules>
+				<fmodule moduleid="4317" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4318" info="uz - Uzbekistan">
+			<fmodules>
+				<fmodule moduleid="4318" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4319" info="va - Vatican City State (Holy See)">
+			<fmodules>
+				<fmodule moduleid="4319" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4320" info="vc - Saint Vincent and the Grenadines">
+			<fmodules>
+				<fmodule moduleid="4320" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4321" info="ve - Venezuela">
+			<fmodules>
+				<fmodule moduleid="4321" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4322" info="vg - Virgin Islands (British)">
+			<fmodules>
+				<fmodule moduleid="4322" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4323" info="vi - Virgin Islands (U.S.)">
+			<fmodules>
+				<fmodule moduleid="4323" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4324" info="vn - Viet Nam">
+			<fmodules>
+				<fmodule moduleid="4324" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4325" info="vu - Vanuatu">
+			<fmodules>
+				<fmodule moduleid="4325" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4326" info="wf - Wallis and Futuna Islands">
+			<fmodules>
+				<fmodule moduleid="4326" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4327" info="ws - Samoa">
+			<fmodules>
+				<fmodule moduleid="4327" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4328" info="ye - Yemen">
+			<fmodules>
+				<fmodule moduleid="4328" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4329" info="yt - Mayotte">
+			<fmodules>
+				<fmodule moduleid="4329" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4330" info="yu - Yugoslavia">
+			<fmodules>
+				<fmodule moduleid="4330" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4331" info="za - South Africa">
+			<fmodules>
+				<fmodule moduleid="4331" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4332" info="zm - Zambia">
+			<fmodules>
+				<fmodule moduleid="4332" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4333" info="cd - Democratic Republic of Congo">
+			<fmodules>
+				<fmodule moduleid="4333" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4334" info="zw - Zimbabwe">
+			<fmodules>
+				<fmodule moduleid="4334" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4335" info="ap - Asia-Pacific">
+			<fmodules>
+				<fmodule moduleid="4335" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4336" info="rs - Republic of Serbia">
+			<fmodules>
+				<fmodule moduleid="4336" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4337" info="ax - Aland Islands">
+			<fmodules>
+				<fmodule moduleid="4337" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4338" info="eu - Europe">
+			<fmodules>
+				<fmodule moduleid="4338" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4339" info="01 - Private">
+			<fmodules>
+				<fmodule moduleid="4339" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4340" info="ps - Palestinian Territory, Occupied">
+			<fmodules>
+				<fmodule moduleid="4340" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+		<frame id="4341" info="me - Montenegro">
+			<fmodules>
+				<fmodule moduleid="4341" x="0" y="0" flags="0" />
+			</fmodules>
+			<flogics/>
+		</frame>
+	</frames>
+	<anims>
+		<anim id="4096" info="ad - Andorra">
+			<aframe frameid="4096" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4097" info="ae - United Arab Emirates">
+			<aframe frameid="4097" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4098" info="af - Afghanistan">
+			<aframe frameid="4098" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4099" info="ag - Antigua and Barbuda">
+			<aframe frameid="4099" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4100" info="ai - Anguilla">
+			<aframe frameid="4100" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4101" info="al - Albania">
+			<aframe frameid="4101" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4102" info="am - Armenia">
+			<aframe frameid="4102" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4103" info="an - Netherlands Antilles">
+			<aframe frameid="4103" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4104" info="ao - Angola">
+			<aframe frameid="4104" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4105" info="aq - Antarctica">
+			<aframe frameid="4105" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4106" info="ar - Argentina">
+			<aframe frameid="4106" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4107" info="as - American Samoa">
+			<aframe frameid="4107" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4108" info="at - Austria">
+			<aframe frameid="4108" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4109" info="au - Australia">
+			<aframe frameid="4109" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4110" info="aw - Aruba">
+			<aframe frameid="4110" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4111" info="az - Azerbaijan">
+			<aframe frameid="4111" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4112" info="ba - Bosnia and Herzegovina">
+			<aframe frameid="4112" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4113" info="bb - Barbados">
+			<aframe frameid="4113" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4114" info="bd - Bangladesh">
+			<aframe frameid="4114" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4115" info="be - Belgium">
+			<aframe frameid="4115" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4116" info="bf - Burkina Faso">
+			<aframe frameid="4116" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4117" info="bg - Bulgaria">
+			<aframe frameid="4117" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4118" info="bh - Bahrain">
+			<aframe frameid="4118" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4119" info="bi - Burundi">
+			<aframe frameid="4119" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4120" info="bj - Benin">
+			<aframe frameid="4120" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4121" info="bm - Bermuda">
+			<aframe frameid="4121" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4122" info="bn - Brunei Darussalam">
+			<aframe frameid="4122" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4123" info="bo - Bolivia">
+			<aframe frameid="4123" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4124" info="br - Brazil">
+			<aframe frameid="4124" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4125" info="bs - Bahamas">
+			<aframe frameid="4125" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4126" info="bt - Bhutan">
+			<aframe frameid="4126" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4127" info="bv - Bouvet Island">
+			<aframe frameid="4127" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4128" info="bw - Botswana">
+			<aframe frameid="4128" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4129" info="by - Belarus">
+			<aframe frameid="4129" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4130" info="bz - Belize">
+			<aframe frameid="4130" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4131" info="ca - Canada">
+			<aframe frameid="4131" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4132" info="cc - Cocos (Keeling) Islands">
+			<aframe frameid="4132" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4133" info="cf - Central African Republic">
+			<aframe frameid="4133" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4134" info="cg - Congo">
+			<aframe frameid="4134" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4135" info="ch - Switzerland">
+			<aframe frameid="4135" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4136" info="ck - Cook Islands">
+			<aframe frameid="4136" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4137" info="cl - Chile">
+			<aframe frameid="4137" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4138" info="cm - Cameroon">
+			<aframe frameid="4138" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4139" info="cn - China">
+			<aframe frameid="4139" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4140" info="co - Colombia">
+			<aframe frameid="4140" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4141" info="cr - Costa Rica">
+			<aframe frameid="4141" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4142" info="cs - Serbia and Montenegro">
+			<aframe frameid="4142" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4143" info="cu - Cuba">
+			<aframe frameid="4143" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4144" info="cv - Cape Verde">
+			<aframe frameid="4144" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4145" info="cx - Christmas Island">
+			<aframe frameid="4145" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4146" info="cy - Cyprus">
+			<aframe frameid="4146" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4147" info="cz - Czech Republic">
+			<aframe frameid="4147" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4148" info="de - Germany">
+			<aframe frameid="4148" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4149" info="dj - Djibouti">
+			<aframe frameid="4149" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4150" info="dk - Denmark">
+			<aframe frameid="4150" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4151" info="dm - Dominica">
+			<aframe frameid="4151" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4152" info="do - Dominican Republic">
+			<aframe frameid="4152" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4153" info="dz - Algeria">
+			<aframe frameid="4153" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4154" info="ec - Ecuador">
+			<aframe frameid="4154" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4155" info="ee - Estonia">
+			<aframe frameid="4155" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4156" info="eg - Egypt">
+			<aframe frameid="4156" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4157" info="eh - Western Sahara">
+			<aframe frameid="4157" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4158" info="er - Eritrea">
+			<aframe frameid="4158" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4159" info="es - Spain">
+			<aframe frameid="4159" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4160" info="et - Ethiopia">
+			<aframe frameid="4160" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4161" info="fi - Finland">
+			<aframe frameid="4161" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4162" info="fj - Fiji">
+			<aframe frameid="4162" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4163" info="fk - Falkland Islands (Malvinas)">
+			<aframe frameid="4163" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4164" info="fm - Micronesia">
+			<aframe frameid="4164" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4165" info="fo - Faroe Islands">
+			<aframe frameid="4165" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4166" info="fr - France">
+			<aframe frameid="4166" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4167" info="ci - Ivory Coast">
+			<aframe frameid="4167" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4168" info="ga - Gabon">
+			<aframe frameid="4168" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4169" info="gd - Grenada">
+			<aframe frameid="4169" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4170" info="ge - Georgia">
+			<aframe frameid="4170" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4171" info="gf - French Guiana">
+			<aframe frameid="4171" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4172" info="gh - Ghana">
+			<aframe frameid="4172" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4173" info="gi - Gibraltar">
+			<aframe frameid="4173" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4174" info="gl - Greenland">
+			<aframe frameid="4174" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4175" info="gm - Gambia">
+			<aframe frameid="4175" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4176" info="gn - Guinea">
+			<aframe frameid="4176" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4177" info="gp - Guadeloupe">
+			<aframe frameid="4177" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4178" info="gq - Equatorial Guinea">
+			<aframe frameid="4178" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4179" info="gr - Greece">
+			<aframe frameid="4179" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4180" info="gs - S. Georgia and S. Sandwich Isls.">
+			<aframe frameid="4180" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4181" info="gt - Guatemala">
+			<aframe frameid="4181" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4182" info="gu - Guam">
+			<aframe frameid="4182" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4183" info="gw - Guinea-Bissau">
+			<aframe frameid="4183" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4184" info="gy - Guyana">
+			<aframe frameid="4184" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4185" info="hk - Hong Kong">
+			<aframe frameid="4185" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4186" info="hm - Heard and McDonald Islands">
+			<aframe frameid="4186" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4187" info="hn - Honduras">
+			<aframe frameid="4187" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4188" info="hr - Croatia (Hrvatska)">
+			<aframe frameid="4188" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4189" info="ht - Haiti">
+			<aframe frameid="4189" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4190" info="hu - Hungary">
+			<aframe frameid="4190" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4191" info="id - Indonesia">
+			<aframe frameid="4191" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4192" info="ie - Ireland">
+			<aframe frameid="4192" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4193" info="il - Israel">
+			<aframe frameid="4193" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4194" info="in - India">
+			<aframe frameid="4194" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4195" info="io - British Indian Ocean Territory">
+			<aframe frameid="4195" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4196" info="iq - Iraq">
+			<aframe frameid="4196" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4197" info="ir - Iran">
+			<aframe frameid="4197" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4198" info="is - Iceland">
+			<aframe frameid="4198" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4199" info="it - Italy">
+			<aframe frameid="4199" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4200" info="jm - Jamaica">
+			<aframe frameid="4200" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4201" info="jo - Jordan">
+			<aframe frameid="4201" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4202" info="jp - Japan">
+			<aframe frameid="4202" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4203" info="ke - Kenya">
+			<aframe frameid="4203" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4204" info="kg - Kyrgyzstan">
+			<aframe frameid="4204" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4205" info="kh - Cambodia">
+			<aframe frameid="4205" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4206" info="ki - Kiribati">
+			<aframe frameid="4206" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4207" info="km - Comoros">
+			<aframe frameid="4207" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4208" info="kn - Saint Kitts and Nevis">
+			<aframe frameid="4208" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4209" info="kp - Korea (North)">
+			<aframe frameid="4209" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4210" info="kr - Korea (South)">
+			<aframe frameid="4210" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4211" info="kw - Kuwait">
+			<aframe frameid="4211" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4212" info="ky - Cayman Islands">
+			<aframe frameid="4212" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4213" info="kz - Kazakhstan">
+			<aframe frameid="4213" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4214" info="la - Laos">
+			<aframe frameid="4214" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4215" info="lb - Lebanon">
+			<aframe frameid="4215" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4216" info="lc - Saint Lucia">
+			<aframe frameid="4216" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4217" info="li - Liechtenstein">
+			<aframe frameid="4217" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4218" info="lk - Sri Lanka">
+			<aframe frameid="4218" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4219" info="lr - Liberia">
+			<aframe frameid="4219" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4220" info="ls - Lesotho">
+			<aframe frameid="4220" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4221" info="lt - Lithuania">
+			<aframe frameid="4221" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4222" info="lu - Luxembourg">
+			<aframe frameid="4222" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4223" info="lv - Latvia">
+			<aframe frameid="4223" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4224" info="ly - Libya">
+			<aframe frameid="4224" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4225" info="ma - Morocco">
+			<aframe frameid="4225" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4226" info="mc - Monaco">
+			<aframe frameid="4226" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4227" info="md - Moldova">
+			<aframe frameid="4227" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4228" info="mg - Madagascar">
+			<aframe frameid="4228" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4229" info="mh - Marshall Islands">
+			<aframe frameid="4229" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4230" info="mk - Macedonia">
+			<aframe frameid="4230" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4231" info="ml - Mali">
+			<aframe frameid="4231" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4232" info="mm - Burma (Myanmar)">
+			<aframe frameid="4232" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4233" info="mn - Mongolia">
+			<aframe frameid="4233" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4234" info="mo - Macau">
+			<aframe frameid="4234" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4235" info="mp - Northern Mariana Islands">
+			<aframe frameid="4235" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4236" info="mq - Martinique">
+			<aframe frameid="4236" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4237" info="mr - Mauritania">
+			<aframe frameid="4237" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4238" info="ms - Montserrat">
+			<aframe frameid="4238" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4239" info="mt - Malta">
+			<aframe frameid="4239" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4240" info="mu - Mauritius">
+			<aframe frameid="4240" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4241" info="mv - Maldives">
+			<aframe frameid="4241" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4242" info="mw - Malawi">
+			<aframe frameid="4242" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4243" info="mx - Mexico">
+			<aframe frameid="4243" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4244" info="my - Malaysia">
+			<aframe frameid="4244" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4245" info="mz - Mozambique">
+			<aframe frameid="4245" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4246" info="na - Namibia">
+			<aframe frameid="4246" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4247" info="nc - New Caledonia">
+			<aframe frameid="4247" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4248" info="ne - Niger">
+			<aframe frameid="4248" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4249" info="nf - Norfolk Island">
+			<aframe frameid="4249" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4250" info="ng - Nigeria">
+			<aframe frameid="4250" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4251" info="ni - Nicaragua">
+			<aframe frameid="4251" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4252" info="nl - Netherlands">
+			<aframe frameid="4252" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4253" info="no - Norway">
+			<aframe frameid="4253" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4254" info="np - Nepal">
+			<aframe frameid="4254" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4255" info="nr - Nauru">
+			<aframe frameid="4255" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4256" info="nt - Neutral Zone">
+			<aframe frameid="4256" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4257" info="nu - Niue">
+			<aframe frameid="4257" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4258" info="nz - New Zealand (Aotearoa)">
+			<aframe frameid="4258" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4259" info="om - Oman">
+			<aframe frameid="4259" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4260" info="pa - Panama">
+			<aframe frameid="4260" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4261" info="pe - Peru">
+			<aframe frameid="4261" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4262" info="pf - French Polynesia">
+			<aframe frameid="4262" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4263" info="pg - Papua New Guinea">
+			<aframe frameid="4263" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4264" info="ph - Philippines">
+			<aframe frameid="4264" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4265" info="pk - Pakistan">
+			<aframe frameid="4265" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4266" info="pl - Poland">
+			<aframe frameid="4266" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4267" info="pm - St. Pierre and Miquelon">
+			<aframe frameid="4267" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4268" info="pn - Pitcairn">
+			<aframe frameid="4268" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4269" info="pr - Puerto Rico">
+			<aframe frameid="4269" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4270" info="pt - Portugal">
+			<aframe frameid="4270" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4271" info="pw - Palau">
+			<aframe frameid="4271" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4272" info="py - Paraguay">
+			<aframe frameid="4272" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4273" info="qa - Qatar">
+			<aframe frameid="4273" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4274" info="re - Reunion">
+			<aframe frameid="4274" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4275" info="ro - Romania">
+			<aframe frameid="4275" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4276" info="ru - Russia">
+			<aframe frameid="4276" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4277" info="rw - Rwanda">
+			<aframe frameid="4277" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4278" info="sa - Saudi Arabia">
+			<aframe frameid="4278" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4279" info="sb - Solomon Islands">
+			<aframe frameid="4279" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4280" info="sc - Seychelles">
+			<aframe frameid="4280" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4281" info="sd - Sudan">
+			<aframe frameid="4281" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4282" info="se - Sweden">
+			<aframe frameid="4282" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4283" info="sg - Singapore">
+			<aframe frameid="4283" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4284" info="sh - St. Helena">
+			<aframe frameid="4284" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4285" info="si - Slovenia">
+			<aframe frameid="4285" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4286" info="sj - Svalbard and Jan Mayen Islands">
+			<aframe frameid="4286" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4287" info="sk - Slovak Republic">
+			<aframe frameid="4287" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4288" info="sl - Sierra Leone">
+			<aframe frameid="4288" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4289" info="sm - San Marino">
+			<aframe frameid="4289" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4290" info="sn - Senegal">
+			<aframe frameid="4290" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4291" info="so - Somalia">
+			<aframe frameid="4291" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4292" info="sr - Suriname">
+			<aframe frameid="4292" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4293" info="st - Sao Tome and Principe">
+			<aframe frameid="4293" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4294" info="sv - El Salvador">
+			<aframe frameid="4294" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4295" info="sy - Syria">
+			<aframe frameid="4295" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4296" info="sz - Swaziland">
+			<aframe frameid="4296" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4297" info="tc - Turks and Caicos Islands">
+			<aframe frameid="4297" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4298" info="td - Chad">
+			<aframe frameid="4298" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4299" info="tf - French Southern Territories">
+			<aframe frameid="4299" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4300" info="tg - Togo">
+			<aframe frameid="4300" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4301" info="th - Thailand">
+			<aframe frameid="4301" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4302" info="tj - Tajikistan">
+			<aframe frameid="4302" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4303" info="tk - Tokelau">
+			<aframe frameid="4303" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4304" info="tm - Turkmenistan">
+			<aframe frameid="4304" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4305" info="tn - Tunisia">
+			<aframe frameid="4305" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4306" info="to - Tonga">
+			<aframe frameid="4306" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4307" info="tl - East Timor">
+			<aframe frameid="4307" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4308" info="tr - Turkey">
+			<aframe frameid="4308" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4309" info="tt - Trinidad and Tobago">
+			<aframe frameid="4309" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4310" info="tv - Tuvalu">
+			<aframe frameid="4310" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4311" info="tw - Taiwan">
+			<aframe frameid="4311" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4312" info="tz - Tanzania">
+			<aframe frameid="4312" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4313" info="ua - Ukraine">
+			<aframe frameid="4313" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4314" info="ug - Uganda">
+			<aframe frameid="4314" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4315" info="uk - United Kingdom">
+			<aframe frameid="4315" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4316" info="us - United States">
+			<aframe frameid="4316" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4317" info="uy - Uruguay">
+			<aframe frameid="4317" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4318" info="uz - Uzbekistan">
+			<aframe frameid="4318" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4319" info="va - Vatican City State (Holy See)">
+			<aframe frameid="4319" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4320" info="vc - Saint Vincent and the Grenadines">
+			<aframe frameid="4320" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4321" info="ve - Venezuela">
+			<aframe frameid="4321" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4322" info="vg - Virgin Islands (British)">
+			<aframe frameid="4322" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4323" info="vi - Virgin Islands (U.S.)">
+			<aframe frameid="4323" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4324" info="vn - Viet Nam">
+			<aframe frameid="4324" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4325" info="vu - Vanuatu">
+			<aframe frameid="4325" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4326" info="wf - Wallis and Futuna Islands">
+			<aframe frameid="4326" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4327" info="ws - Samoa">
+			<aframe frameid="4327" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4328" info="ye - Yemen">
+			<aframe frameid="4328" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4329" info="yt - Mayotte">
+			<aframe frameid="4329" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4330" info="yu - Yugoslavia">
+			<aframe frameid="4330" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4331" info="za - South Africa">
+			<aframe frameid="4331" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4332" info="zm - Zambia">
+			<aframe frameid="4332" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4333" info="cd - Democratic Republic of Congo">
+			<aframe frameid="4333" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4334" info="zw - Zimbabwe">
+			<aframe frameid="4334" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4335" info="ap - Asia-Pacific">
+			<aframe frameid="4335" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4336" info="rs - Republic of Serbia">
+			<aframe frameid="4336" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4337" info="ax - Aland Islands">
+			<aframe frameid="4337" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4338" info="eu - Europe">
+			<aframe frameid="4338" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4339" info="01 - Private">
+			<aframe frameid="4339" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4340" info="ps - Palestinian Territory, Occupied">
+			<aframe frameid="4340" time="1" x="0" y="0" flags="0" />
+		</anim>
+		<anim id="4341" info="me - Montenegro">
+			<aframe frameid="4341" time="1" x="0" y="0" flags="0" />
+		</anim>
+	</anims>
+	</xsprite>

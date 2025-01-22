@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>	
+	<meta title="Gamelib2 LeaderBoard Test" package="com.pirongames.examples.leaderboard" version="1.0.0" company="Piron Games" />
+	<app main="GameApp" path="export" file="GameApp" />
+	
+	<window orientation="landscape" background="#000000" fps="25" antialiasing="0" resizable="false" />
+	<window width="640" height="480" unless="mobile" />
+	
+	<haxeflag name="-D ImprovedAnimFinished" />
+	<haxeflag name="-D VersionPironGames" />
+	<haxeflag name="-D LeaderboardLocalhost" />	
+	
+	<source path="..\..\src" />
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="assets/strings" rename="strings">
+      <binary id="Data_Lang" path="langlib" />
+    </assets>
+
+	<assets path="assets/sprites" rename="sprites">
+      <binary id="Data_SprLib" path="sprlib" />
+    </assets>
+
+    <assets path="assets/fonts" rename="fonts" include="*.ttf" />
+
+</project>

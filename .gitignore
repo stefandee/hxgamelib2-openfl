@@ -73,7 +73,13 @@ quick_gen_project_*_autogen.sh.meta
 #//////////////////////////
 # Examples Output files
 #//////////////////////////
+sprlib
+langlib
+
 examples/gamelib2/export/
 examples/gamelib2/assets/strings/EN_US/*.*
 examples/gamelib2/assets/strings/ES/*.*
-examples/gamelib2/assets/sprites/*.bin
+
+examples/leaderboard/export/
+examples/leaderboard/assets/strings/EN_US/*.*
+examples/leaderboard/assets/strings/RO/*.*
